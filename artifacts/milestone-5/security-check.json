@@ -1,0 +1,30 @@
+{
+  "method": "Tracked-sensitive-path review and bounded known-token/private-key pattern scan; filenames only, no values logged.",
+  "filesScanned": 69,
+  "trackedSensitivePaths": [],
+  "suspiciousFiles": [],
+  "gitignoreChecks": [
+    {
+      "path": ".env.local",
+      "ignored": true
+    },
+    {
+      "path": ".vercel/project.json",
+      "ignored": true
+    },
+    {
+      "path": ".aws/credentials",
+      "ignored": true
+    },
+    {
+      "path": ".codex/config.toml",
+      "ignored": true
+    },
+    {
+      "path": ".agents/local.json",
+      "ignored": true
+    }
+  ],
+  "deploymentExcludesOriginalsAndArtifacts": true,
+  "sourceManifestRemainsIncluded": true
+}

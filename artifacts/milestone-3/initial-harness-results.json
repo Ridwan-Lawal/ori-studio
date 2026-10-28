@@ -1,0 +1,9 @@
+{
+  "checks": [],
+  "screenshots": [
+    "artifacts/milestone-3/book-service-320.png"
+  ],
+  "errors": [],
+  "metrics": [],
+  "failure": "locator.innerText: Error: strict mode violation: getByRole('alert') resolved to 2 elements:\n    1) <p role=\"alert\" id=\"service-error\" class=\"nv8LGq_fieldError\">Choose a service to continue.</p> aka getByText('Choose a service to continue.')\n    2) <div role=\"alert\" aria-live=\"assertive\" id=\"__next-route-announcer__\"></div> aka locator('[id=\"__next-route-announcer__\"]')\n\nCall log:\n\u001b[2m  - waiting for getByRole('alert')\u001b[22m\n\n    at /tmp/ori-booking-qa.cjs:13:55"
+}

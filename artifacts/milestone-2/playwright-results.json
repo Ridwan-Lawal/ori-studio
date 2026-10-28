@@ -1,0 +1,451 @@
+{
+  "base": "http://localhost:3007",
+  "checks": [
+    "services layout, fonts, disclosure and approved image limits at 320px",
+    "lookbook layout, fonts, disclosure and approved image limits at 320px",
+    "six services, illustrative durations, truthful missing photography and category anchors at 320px",
+    "all six service-to-booking URLs preserve their slugs at 320px",
+    "category filters, count announcements, case-insensitive search and empty/reset state at 320px",
+    "detail dialog, keyboard navigation, focus containment/return and compact photo at 320px",
+    "loc updo and two-strand twists are not mislabeled as services at 320px",
+    "look-to-service anchors and look-to-booking handoff at 320px",
+    "single-result detail disables previous/next at 320px",
+    "keyboard skip link and reduced motion at 320px",
+    "services layout, fonts, disclosure and approved image limits at 390px",
+    "lookbook layout, fonts, disclosure and approved image limits at 390px",
+    "six services, illustrative durations, truthful missing photography and category anchors at 390px",
+    "all six service-to-booking URLs preserve their slugs at 390px",
+    "category filters, count announcements, case-insensitive search and empty/reset state at 390px",
+    "detail dialog, keyboard navigation, focus containment/return and compact photo at 390px",
+    "loc updo and two-strand twists are not mislabeled as services at 390px",
+    "look-to-service anchors and look-to-booking handoff at 390px",
+    "single-result detail disables previous/next at 390px",
+    "keyboard skip link and reduced motion at 390px",
+    "services layout, fonts, disclosure and approved image limits at 768px",
+    "lookbook layout, fonts, disclosure and approved image limits at 768px",
+    "six services, illustrative durations, truthful missing photography and category anchors at 768px",
+    "all six service-to-booking URLs preserve their slugs at 768px",
+    "category filters, count announcements, case-insensitive search and empty/reset state at 768px",
+    "detail dialog, keyboard navigation, focus containment/return and compact photo at 768px",
+    "loc updo and two-strand twists are not mislabeled as services at 768px",
+    "look-to-service anchors and look-to-booking handoff at 768px",
+    "single-result detail disables previous/next at 768px",
+    "keyboard skip link and reduced motion at 768px",
+    "services layout, fonts, disclosure and approved image limits at 1440px",
+    "lookbook layout, fonts, disclosure and approved image limits at 1440px",
+    "six services, illustrative durations, truthful missing photography and category anchors at 1440px",
+    "all six service-to-booking URLs preserve their slugs at 1440px",
+    "category filters, count announcements, case-insensitive search and empty/reset state at 1440px",
+    "detail dialog, keyboard navigation, focus containment/return and compact photo at 1440px",
+    "loc updo and two-strand twists are not mislabeled as services at 1440px",
+    "look-to-service anchors and look-to-booking handoff at 1440px",
+    "single-result detail disables previous/next at 1440px",
+    "keyboard skip link and reduced motion at 1440px",
+    "services missing-image fallback retains content and actions",
+    "lookbook missing-image fallback retains content and actions",
+    "homepage regression captures at 390px and 1440px"
+  ],
+  "viewports": [
+    {
+      "route": "services",
+      "width": 320,
+      "overflow": false,
+      "title": "Services | ORÍ Studio",
+      "images": [
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 280,
+          "height": 350,
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/services/defined-natural-curls.webp",
+          "width": 280,
+          "height": 350,
+          "alt": "Black woman with voluminous, defined curls in a warm editorial portrait."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 260,
+          "height": 410,
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "route": "lookbook",
+      "width": 320,
+      "overflow": false,
+      "title": "Lookbook | ORÍ Studio",
+      "images": [
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 280,
+          "height": 350,
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 128,
+          "height": 202,
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/two-strand-twists.webp",
+          "width": 128,
+          "height": 207,
+          "alt": "Black woman with medium-sized rope twists over her shoulders."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 128,
+          "height": 211,
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/loc-updo.webp",
+          "width": 128,
+          "height": 212,
+          "alt": "Black woman with locs swept into a high updo."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/long-braids-side-view.webp",
+          "width": 280,
+          "height": 175,
+          "alt": "Editorial side view of a woman wearing long braids against a terracotta background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 280,
+          "height": 185,
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/updo-profile.webp",
+          "width": 280,
+          "height": 185,
+          "alt": "Woman with an updo and face-framing twists in a dark olive interior."
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Instrument Serif",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "route": "services",
+      "width": 390,
+      "overflow": false,
+      "title": "Services | ORÍ Studio",
+      "images": [
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 350,
+          "height": 438,
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/services/defined-natural-curls.webp",
+          "width": 350,
+          "height": 438,
+          "alt": "Black woman with voluminous, defined curls in a warm editorial portrait."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 260,
+          "height": 410,
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "route": "lookbook",
+      "width": 390,
+      "overflow": false,
+      "title": "Lookbook | ORÍ Studio",
+      "images": [
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 350,
+          "height": 438,
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 163,
+          "height": 257,
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/two-strand-twists.webp",
+          "width": 163,
+          "height": 263,
+          "alt": "Black woman with medium-sized rope twists over her shoulders."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 163,
+          "height": 269,
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/loc-updo.webp",
+          "width": 163,
+          "height": 269,
+          "alt": "Black woman with locs swept into a high updo."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/long-braids-side-view.webp",
+          "width": 350,
+          "height": 219,
+          "alt": "Editorial side view of a woman wearing long braids against a terracotta background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 350,
+          "height": 232,
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/updo-profile.webp",
+          "width": 350,
+          "height": 232,
+          "alt": "Woman with an updo and face-framing twists in a dark olive interior."
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Instrument Serif",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "route": "services",
+      "width": 768,
+      "overflow": false,
+      "title": "Services | ORÍ Studio",
+      "images": [
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 254,
+          "height": 317,
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/services/defined-natural-curls.webp",
+          "width": 265,
+          "height": 331,
+          "alt": "Black woman with voluminous, defined curls in a warm editorial portrait."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 260,
+          "height": 410,
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "route": "lookbook",
+      "width": 768,
+      "overflow": false,
+      "title": "Lookbook | ORÍ Studio",
+      "images": [
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 333,
+          "height": 417,
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 151,
+          "height": 238,
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/two-strand-twists.webp",
+          "width": 151,
+          "height": 243,
+          "alt": "Black woman with medium-sized rope twists over her shoulders."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 151,
+          "height": 248,
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/loc-updo.webp",
+          "width": 151,
+          "height": 249,
+          "alt": "Black woman with locs swept into a high updo."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/long-braids-side-view.webp",
+          "width": 212,
+          "height": 132,
+          "alt": "Editorial side view of a woman wearing long braids against a terracotta background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 212,
+          "height": 140,
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/updo-profile.webp",
+          "width": 212,
+          "height": 140,
+          "alt": "Woman with an updo and face-framing twists in a dark olive interior."
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Instrument Serif",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "route": "services",
+      "width": 1440,
+      "overflow": false,
+      "title": "Services | ORÍ Studio",
+      "images": [
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 480,
+          "height": 600,
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/services/defined-natural-curls.webp",
+          "width": 480,
+          "height": 600,
+          "alt": "Black woman with voluminous, defined curls in a warm editorial portrait."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 260,
+          "height": 410,
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "route": "lookbook",
+      "width": 1440,
+      "overflow": false,
+      "title": "Lookbook | ORÍ Studio",
+      "images": [
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 639,
+          "height": 799,
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 240,
+          "height": 379,
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/two-strand-twists.webp",
+          "width": 240,
+          "height": 388,
+          "alt": "Black woman with medium-sized rope twists over her shoulders."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 240,
+          "height": 395,
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/loc-updo.webp",
+          "width": 240,
+          "height": 397,
+          "alt": "Black woman with locs swept into a high updo."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/long-braids-side-view.webp",
+          "width": 415,
+          "height": 260,
+          "alt": "Editorial side view of a woman wearing long braids against a terracotta background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 415,
+          "height": 275,
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/updo-profile.webp",
+          "width": 415,
+          "height": 275,
+          "alt": "Woman with an updo and face-framing twists in a dark olive interior."
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Instrument Serif",
+        "Manrope",
+        "Manrope"
+      ]
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "httpErrors": [],
+  "expectedImageFailures": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ]
+}

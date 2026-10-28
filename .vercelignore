@@ -1,0 +1,18 @@
+# Ship the app and approved public images, not QA footage, originals or local tooling.
+.git
+.next
+node_modules
+.vercel
+.env*
+.aws
+.codex
+.agents
+.taste-skill
+artifacts
+assets
+docs/*.md
+README.md
+SETUP.md
+IMAGE_KIT_README.md
+AGENTS.md
+# docs/ASSET_MANIFEST.json is imported by src/content/images.ts and must remain included.

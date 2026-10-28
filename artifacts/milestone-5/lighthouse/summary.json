@@ -1,0 +1,330 @@
+[
+  {
+    "route": "home",
+    "device": "mobile",
+    "url": "http://localhost:3026/",
+    "fetchTime": "2026-10-27T11:37:17.086Z",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 97,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69,
+      "agentic-browsing": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 858.5949500000002,
+        "display": "0.9 s"
+      },
+      "largest-contentful-paint": {
+        "value": 1843.9873749999997,
+        "display": "1.8 s"
+      },
+      "total-blocking-time": {
+        "value": 161.4999999999999,
+        "display": "160 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 1444.736270412707,
+        "display": "1.4 s"
+      }
+    },
+    "failedSeo": [
+      "is-crawlable"
+    ],
+    "warnings": [
+      "The tested device appears to have a slower CPU than  Lighthouse expects. This can negatively affect your performance score. Learn more about [calibrating an appropriate CPU slowdown multiplier](https://github.com/GoogleChrome/lighthouse/blob/main/docs/throttling.md#cpu-throttling)."
+    ]
+  },
+  {
+    "route": "home",
+    "device": "desktop",
+    "url": "http://localhost:3026/",
+    "fetchTime": "2026-10-27T11:43:02.286Z",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69,
+      "agentic-browsing": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 260.4343,
+        "display": "0.3 s"
+      },
+      "largest-contentful-paint": {
+        "value": 751.3029,
+        "display": "0.8 s"
+      },
+      "total-blocking-time": {
+        "value": 51.5,
+        "display": "50 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 505.58756519765234,
+        "display": "0.5 s"
+      }
+    },
+    "failedSeo": [
+      "is-crawlable"
+    ],
+    "warnings": []
+  },
+  {
+    "route": "services",
+    "device": "mobile",
+    "url": "http://localhost:3023/services",
+    "fetchTime": "2026-10-27T11:11:37.862Z",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69,
+      "agentic-browsing": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 909.2,
+        "display": "0.9 s"
+      },
+      "largest-contentful-paint": {
+        "value": 1959.1999999999998,
+        "display": "2.0 s"
+      },
+      "total-blocking-time": {
+        "value": 227,
+        "display": "230 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 909.2,
+        "display": "0.9 s"
+      }
+    },
+    "failedSeo": [
+      "is-crawlable"
+    ],
+    "warnings": [
+      "The tested device appears to have a slower CPU than  Lighthouse expects. This can negatively affect your performance score. Learn more about [calibrating an appropriate CPU slowdown multiplier](https://github.com/GoogleChrome/lighthouse/blob/main/docs/throttling.md#cpu-throttling)."
+    ]
+  },
+  {
+    "route": "services",
+    "device": "desktop",
+    "url": "http://localhost:3023/services",
+    "fetchTime": "2026-10-27T11:11:51.920Z",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69,
+      "agentic-browsing": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 249.6137,
+        "display": "0.2 s"
+      },
+      "largest-contentful-paint": {
+        "value": 658.323975,
+        "display": "0.7 s"
+      },
+      "total-blocking-time": {
+        "value": 29.09657500000003,
+        "display": "30 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 257.5050970847676,
+        "display": "0.3 s"
+      }
+    },
+    "failedSeo": [
+      "is-crawlable"
+    ],
+    "warnings": []
+  },
+  {
+    "route": "lookbook",
+    "device": "mobile",
+    "url": "http://localhost:3023/lookbook",
+    "fetchTime": "2026-10-27T11:12:06.070Z",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69,
+      "agentic-browsing": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 921.7191,
+        "display": "0.9 s"
+      },
+      "largest-contentful-paint": {
+        "value": 2262.008425,
+        "display": "2.3 s"
+      },
+      "total-blocking-time": {
+        "value": 186,
+        "display": "190 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 921.7191,
+        "display": "0.9 s"
+      }
+    },
+    "failedSeo": [
+      "is-crawlable"
+    ],
+    "warnings": [
+      "The tested device appears to have a slower CPU than  Lighthouse expects. This can negatively affect your performance score. Learn more about [calibrating an appropriate CPU slowdown multiplier](https://github.com/GoogleChrome/lighthouse/blob/main/docs/throttling.md#cpu-throttling)."
+    ]
+  },
+  {
+    "route": "lookbook",
+    "device": "desktop",
+    "url": "http://localhost:3023/lookbook",
+    "fetchTime": "2026-10-27T11:12:21.511Z",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69,
+      "agentic-browsing": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 260.2322,
+        "display": "0.3 s"
+      },
+      "largest-contentful-paint": {
+        "value": 686.3482999999999,
+        "display": "0.7 s"
+      },
+      "total-blocking-time": {
+        "value": 13,
+        "display": "10 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 264.9484933341353,
+        "display": "0.3 s"
+      }
+    },
+    "failedSeo": [
+      "is-crawlable"
+    ],
+    "warnings": []
+  },
+  {
+    "route": "book",
+    "device": "mobile",
+    "url": "http://localhost:3023/book",
+    "fetchTime": "2026-10-27T11:12:36.716Z",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 66,
+      "agentic-browsing": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 916.6728,
+        "display": "0.9 s"
+      },
+      "largest-contentful-paint": {
+        "value": 2026.0092,
+        "display": "2.0 s"
+      },
+      "total-blocking-time": {
+        "value": 231.5,
+        "display": "230 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 916.6728,
+        "display": "0.9 s"
+      }
+    },
+    "failedSeo": [
+      "is-crawlable"
+    ],
+    "warnings": [
+      "The tested device appears to have a slower CPU than  Lighthouse expects. This can negatively affect your performance score. Learn more about [calibrating an appropriate CPU slowdown multiplier](https://github.com/GoogleChrome/lighthouse/blob/main/docs/throttling.md#cpu-throttling)."
+    ]
+  },
+  {
+    "route": "book",
+    "device": "desktop",
+    "url": "http://localhost:3023/book",
+    "fetchTime": "2026-10-27T11:12:50.537Z",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 66,
+      "agentic-browsing": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 257.076,
+        "display": "0.3 s"
+      },
+      "largest-contentful-paint": {
+        "value": 615.614,
+        "display": "0.6 s"
+      },
+      "total-blocking-time": {
+        "value": 60,
+        "display": "60 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 258.38052150153817,
+        "display": "0.3 s"
+      }
+    },
+    "failedSeo": [
+      "is-crawlable"
+    ],
+    "warnings": []
+  }
+]

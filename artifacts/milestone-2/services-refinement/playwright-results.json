@@ -1,0 +1,99 @@
+{
+  "base": "http://localhost:3009",
+  "checks": [
+    "320px layout, typography, clean service copy, six durations and fictional disclosures",
+    "320px portraits belong only to Silk Press and Wash & Define; Loc Retwist stays text-only",
+    "320px all category links work with keyboard",
+    "320px all six booking CTAs preserve stable service slugs",
+    "320px skip link, focus and reduced motion",
+    "390px layout, typography, clean service copy, six durations and fictional disclosures",
+    "390px portraits belong only to Silk Press and Wash & Define; Loc Retwist stays text-only",
+    "390px all category links work with keyboard",
+    "390px all six booking CTAs preserve stable service slugs",
+    "390px skip link, focus and reduced motion",
+    "768px layout, typography, clean service copy, six durations and fictional disclosures",
+    "768px portraits belong only to Silk Press and Wash & Define; Loc Retwist stays text-only",
+    "768px all category links work with keyboard",
+    "768px all six booking CTAs preserve stable service slugs",
+    "768px skip link, focus and reduced motion",
+    "1440px layout, typography, clean service copy, six durations and fictional disclosures",
+    "1440px portraits belong only to Silk Press and Wash & Define; Loc Retwist stays text-only",
+    "1440px all category links work with keyboard",
+    "1440px all six booking CTAs preserve stable service slugs",
+    "1440px skip link, focus and reduced motion",
+    "homepage and lookbook regression captures at 390px and 1440px",
+    "lookbook category filtering and detail dialog smoke check"
+  ],
+  "metrics": [
+    {
+      "width": 320,
+      "headingSize": "48px",
+      "headingLineHeight": "48px",
+      "bodySize": "16px",
+      "bodyLineHeight": "25.6px",
+      "serviceHeadingSize": "28px",
+      "serviceHeadingLineHeight": "31.36px",
+      "articleGaps": [
+        "24px",
+        "24px",
+        "24px",
+        "24px",
+        "24px",
+        "24px"
+      ]
+    },
+    {
+      "width": 390,
+      "headingSize": "48px",
+      "headingLineHeight": "48px",
+      "bodySize": "16px",
+      "bodyLineHeight": "25.6px",
+      "serviceHeadingSize": "28px",
+      "serviceHeadingLineHeight": "31.36px",
+      "articleGaps": [
+        "24px",
+        "24px",
+        "24px",
+        "24px",
+        "24px",
+        "24px"
+      ]
+    },
+    {
+      "width": 768,
+      "headingSize": "52.224px",
+      "headingLineHeight": "52.224px",
+      "bodySize": "16px",
+      "bodyLineHeight": "25.6px",
+      "serviceHeadingSize": "28px",
+      "serviceHeadingLineHeight": "31.36px",
+      "articleGaps": [
+        "64px",
+        "64px",
+        "64px",
+        "24px",
+        "24px",
+        "64px"
+      ]
+    },
+    {
+      "width": 1440,
+      "headingSize": "97.92px",
+      "headingLineHeight": "97.92px",
+      "bodySize": "16px",
+      "bodyLineHeight": "25.6px",
+      "serviceHeadingSize": "43.2px",
+      "serviceHeadingLineHeight": "48.384px",
+      "articleGaps": [
+        "64px",
+        "64px",
+        "64px",
+        "24px",
+        "24px",
+        "64px"
+      ]
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": []
+}

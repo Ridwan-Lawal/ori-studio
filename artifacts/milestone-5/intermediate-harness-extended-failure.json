@@ -1,0 +1,2606 @@
+{
+  "checks": [
+    "320px browser history, dialog cleanup, category anchors, metadata, optimized images/caps and honest content",
+    "390px browser history, dialog cleanup, category anchors, metadata, optimized images/caps and honest content",
+    "768px browser history, dialog cleanup, category anchors, metadata, optimized images/caps and honest content",
+    "1024px browser history, dialog cleanup, category anchors, metadata, optimized images/caps and honest content",
+    "1440px browser history, dialog cleanup, category anchors, metadata, optimized images/caps and honest content",
+    "All internal link paths and hash targets resolve to approved public content",
+    "robots/favicon/social image return 200; deliberate no-sitemap policy and branded 404 recovery work",
+    "Invalid and duplicate booking parameters are safe and query-free canonical metadata is stable"
+  ],
+  "errors": [
+    {
+      "message": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "location": {
+        "url": "http://localhost:3020/favicon.ico",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page": "http://localhost:3020/services"
+    }
+  ],
+  "httpErrors": [],
+  "links": [
+    {
+      "path": "/",
+      "href": "#main-content"
+    },
+    {
+      "path": "/",
+      "href": "/"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "#top"
+    },
+    {
+      "path": "/services",
+      "href": "#main-content"
+    },
+    {
+      "path": "/services",
+      "href": "/"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "#protective-styling"
+    },
+    {
+      "path": "/services",
+      "href": "#protective-styling"
+    },
+    {
+      "path": "/services",
+      "href": "#natural-haircare"
+    },
+    {
+      "path": "/services",
+      "href": "#styling-maintenance"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=knotless-braids"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=flat-twists"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=deep-conditioning"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=wash-and-define"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=silk-press"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=loc-retwist"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "#top"
+    },
+    {
+      "path": "/lookbook",
+      "href": "#main-content"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "#top"
+    },
+    {
+      "path": "/book",
+      "href": "#main-content"
+    },
+    {
+      "path": "/book",
+      "href": "/"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "/"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "#top"
+    },
+    {
+      "path": "/",
+      "href": "#main-content"
+    },
+    {
+      "path": "/",
+      "href": "/"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "#top"
+    },
+    {
+      "path": "/services",
+      "href": "#main-content"
+    },
+    {
+      "path": "/services",
+      "href": "/"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "#protective-styling"
+    },
+    {
+      "path": "/services",
+      "href": "#protective-styling"
+    },
+    {
+      "path": "/services",
+      "href": "#natural-haircare"
+    },
+    {
+      "path": "/services",
+      "href": "#styling-maintenance"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=knotless-braids"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=flat-twists"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=deep-conditioning"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=wash-and-define"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=silk-press"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=loc-retwist"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "#top"
+    },
+    {
+      "path": "/lookbook",
+      "href": "#main-content"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "#top"
+    },
+    {
+      "path": "/book",
+      "href": "#main-content"
+    },
+    {
+      "path": "/book",
+      "href": "/"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "/"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "#top"
+    },
+    {
+      "path": "/",
+      "href": "#main-content"
+    },
+    {
+      "path": "/",
+      "href": "/"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "#top"
+    },
+    {
+      "path": "/services",
+      "href": "#main-content"
+    },
+    {
+      "path": "/services",
+      "href": "/"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "#protective-styling"
+    },
+    {
+      "path": "/services",
+      "href": "#protective-styling"
+    },
+    {
+      "path": "/services",
+      "href": "#natural-haircare"
+    },
+    {
+      "path": "/services",
+      "href": "#styling-maintenance"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=knotless-braids"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=flat-twists"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=deep-conditioning"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=wash-and-define"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=silk-press"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=loc-retwist"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "#top"
+    },
+    {
+      "path": "/lookbook",
+      "href": "#main-content"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "#top"
+    },
+    {
+      "path": "/book",
+      "href": "#main-content"
+    },
+    {
+      "path": "/book",
+      "href": "/"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "/"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "#top"
+    },
+    {
+      "path": "/",
+      "href": "#main-content"
+    },
+    {
+      "path": "/",
+      "href": "/"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "#top"
+    },
+    {
+      "path": "/services",
+      "href": "#main-content"
+    },
+    {
+      "path": "/services",
+      "href": "/"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "#protective-styling"
+    },
+    {
+      "path": "/services",
+      "href": "#protective-styling"
+    },
+    {
+      "path": "/services",
+      "href": "#natural-haircare"
+    },
+    {
+      "path": "/services",
+      "href": "#styling-maintenance"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=knotless-braids"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=flat-twists"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=deep-conditioning"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=wash-and-define"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=silk-press"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=loc-retwist"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "#top"
+    },
+    {
+      "path": "/lookbook",
+      "href": "#main-content"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "#top"
+    },
+    {
+      "path": "/book",
+      "href": "#main-content"
+    },
+    {
+      "path": "/book",
+      "href": "/"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "/"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "#top"
+    },
+    {
+      "path": "/",
+      "href": "#main-content"
+    },
+    {
+      "path": "/",
+      "href": "/"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "/"
+    },
+    {
+      "path": "/",
+      "href": "/services"
+    },
+    {
+      "path": "/",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/",
+      "href": "/#approach"
+    },
+    {
+      "path": "/",
+      "href": "/book"
+    },
+    {
+      "path": "/",
+      "href": "#top"
+    },
+    {
+      "path": "/services",
+      "href": "#main-content"
+    },
+    {
+      "path": "/services",
+      "href": "/"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "#protective-styling"
+    },
+    {
+      "path": "/services",
+      "href": "#protective-styling"
+    },
+    {
+      "path": "/services",
+      "href": "#natural-haircare"
+    },
+    {
+      "path": "/services",
+      "href": "#styling-maintenance"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=knotless-braids"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=flat-twists"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=deep-conditioning"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=wash-and-define"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=silk-press"
+    },
+    {
+      "path": "/services",
+      "href": "/book?service=loc-retwist"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/"
+    },
+    {
+      "path": "/services",
+      "href": "/services"
+    },
+    {
+      "path": "/services",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/services",
+      "href": "/#approach"
+    },
+    {
+      "path": "/services",
+      "href": "/book"
+    },
+    {
+      "path": "/services",
+      "href": "#top"
+    },
+    {
+      "path": "/lookbook",
+      "href": "#main-content"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/services"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/#approach"
+    },
+    {
+      "path": "/lookbook",
+      "href": "/book"
+    },
+    {
+      "path": "/lookbook",
+      "href": "#top"
+    },
+    {
+      "path": "/book",
+      "href": "#main-content"
+    },
+    {
+      "path": "/book",
+      "href": "/"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "/"
+    },
+    {
+      "path": "/book",
+      "href": "/services"
+    },
+    {
+      "path": "/book",
+      "href": "/lookbook"
+    },
+    {
+      "path": "/book",
+      "href": "/#approach"
+    },
+    {
+      "path": "/book",
+      "href": "/book"
+    },
+    {
+      "path": "/book",
+      "href": "#top"
+    }
+  ],
+  "images": [
+    {
+      "width": 320,
+      "route": "home",
+      "images": [
+        {
+          "src": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 280,
+          "height": 350,
+          "loading": "auto",
+          "fetchPriority": "high",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric."
+        },
+        {
+          "src": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 180,
+          "height": 310,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight."
+        },
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 280,
+          "height": 350,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 280,
+          "height": 350,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 128,
+          "height": 170.65625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 128,
+          "height": 128,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 280,
+          "height": 188.796875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight."
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "route": "services",
+      "images": [
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 280,
+          "height": 350,
+          "loading": "auto",
+          "fetchPriority": "high",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/services/defined-natural-curls.webp",
+          "width": 280,
+          "height": 350,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with voluminous, defined curls in a warm editorial portrait."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 240,
+          "height": 378.6875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "route": "lookbook",
+      "images": [
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 280,
+          "height": 350,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 128,
+          "height": 201.96875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/two-strand-twists.webp",
+          "width": 128,
+          "height": 206.65625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with medium-sized rope twists over her shoulders."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 128,
+          "height": 210.859375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/loc-updo.webp",
+          "width": 128,
+          "height": 211.578125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with locs swept into a high updo."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/long-braids-side-view.webp",
+          "width": 280,
+          "height": 175,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Editorial side view of a woman wearing long braids against a terracotta background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 280,
+          "height": 185.421875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/updo-profile.webp",
+          "width": 280,
+          "height": 185.421875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with an updo and face-framing twists in a dark olive interior."
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "route": "book",
+      "images": []
+    },
+    {
+      "width": 390,
+      "route": "home",
+      "images": [
+        {
+          "src": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 350,
+          "height": 437.5,
+          "loading": "auto",
+          "fetchPriority": "high",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric."
+        },
+        {
+          "src": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 180,
+          "height": 310,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight."
+        },
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 350,
+          "height": 437.5,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 350,
+          "height": 437.5,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 163,
+          "height": 217.328125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 163,
+          "height": 163,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 350,
+          "height": 236,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight."
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "route": "services",
+      "images": [
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 350,
+          "height": 437.5,
+          "loading": "auto",
+          "fetchPriority": "high",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/services/defined-natural-curls.webp",
+          "width": 350,
+          "height": 437.5,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with voluminous, defined curls in a warm editorial portrait."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 240,
+          "height": 378.6875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "route": "lookbook",
+      "images": [
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 350,
+          "height": 437.5,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 163,
+          "height": 257.1875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/two-strand-twists.webp",
+          "width": 163,
+          "height": 263.171875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with medium-sized rope twists over her shoulders."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 163,
+          "height": 268.53125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/loc-updo.webp",
+          "width": 163,
+          "height": 269.4375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with locs swept into a high updo."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/long-braids-side-view.webp",
+          "width": 350,
+          "height": 218.75,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Editorial side view of a woman wearing long braids against a terracotta background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 350,
+          "height": 231.78125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/updo-profile.webp",
+          "width": 350,
+          "height": 231.78125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with an updo and face-framing twists in a dark olive interior."
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "route": "book",
+      "images": []
+    },
+    {
+      "width": 768,
+      "route": "home",
+      "images": [
+        {
+          "src": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 386.78125,
+          "height": 483.46875,
+          "loading": "auto",
+          "fetchPriority": "high",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric."
+        },
+        {
+          "src": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 200,
+          "height": 344.4375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight."
+        },
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 264.53125,
+          "height": 330.65625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 370.34375,
+          "height": 462.921875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 180,
+          "height": 240,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 264.53125,
+          "height": 175.1875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 346.28125,
+          "height": 233.484375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight."
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "route": "services",
+      "images": [
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 253.9375,
+          "height": 317.421875,
+          "loading": "auto",
+          "fetchPriority": "high",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/services/defined-natural-curls.webp",
+          "width": 320,
+          "height": 400,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with voluminous, defined curls in a warm editorial portrait."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 240,
+          "height": 378.6875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "route": "lookbook",
+      "images": [
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 333.4375,
+          "height": 416.796875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 150.71875,
+          "height": 237.8125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/two-strand-twists.webp",
+          "width": 150.71875,
+          "height": 243.34375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with medium-sized rope twists over her shoulders."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 150.71875,
+          "height": 248.296875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/loc-updo.webp",
+          "width": 150.71875,
+          "height": 249.140625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with locs swept into a high updo."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/long-braids-side-view.webp",
+          "width": 211.625,
+          "height": 132.265625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Editorial side view of a woman wearing long braids against a terracotta background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 211.625,
+          "height": 140.140625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/updo-profile.webp",
+          "width": 211.625,
+          "height": 140.140625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with an updo and face-framing twists in a dark olive interior."
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "route": "book",
+      "images": []
+    },
+    {
+      "width": 1024,
+      "route": "home",
+      "images": [
+        {
+          "src": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 521.90625,
+          "height": 652.375,
+          "loading": "auto",
+          "fetchPriority": "high",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric."
+        },
+        {
+          "src": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 240,
+          "height": 413.328125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight."
+        },
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 361.59375,
+          "height": 451.984375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 506.21875,
+          "height": 632.765625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 240,
+          "height": 320,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 361.59375,
+          "height": 239.46875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 473.359375,
+          "height": 319.1875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight."
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "route": "services",
+      "images": [
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 347.140625,
+          "height": 433.921875,
+          "loading": "auto",
+          "fetchPriority": "high",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/services/defined-natural-curls.webp",
+          "width": 320,
+          "height": 400,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with voluminous, defined curls in a warm editorial portrait."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 240,
+          "height": 378.6875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "route": "lookbook",
+      "images": [
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 449.90625,
+          "height": 562.375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 208.953125,
+          "height": 329.703125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/two-strand-twists.webp",
+          "width": 208.96875,
+          "height": 337.390625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with medium-sized rope twists over her shoulders."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 208.953125,
+          "height": 344.234375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/loc-updo.webp",
+          "width": 208.96875,
+          "height": 345.4375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with locs swept into a high updo."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/long-braids-side-view.webp",
+          "width": 289.265625,
+          "height": 180.78125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Editorial side view of a woman wearing long braids against a terracotta background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 289.28125,
+          "height": 191.578125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/updo-profile.webp",
+          "width": 289.28125,
+          "height": 191.578125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with an updo and face-framing twists in a dark olive interior."
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "route": "book",
+      "images": []
+    },
+    {
+      "width": 1440,
+      "route": "home",
+      "images": [
+        {
+          "src": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 741.46875,
+          "height": 926.828125,
+          "loading": "auto",
+          "fetchPriority": "high",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric."
+        },
+        {
+          "src": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 240,
+          "height": 413.328125,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight."
+        },
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 519.328125,
+          "height": 649.15625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 700,
+          "height": 875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 240,
+          "height": 320,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 470,
+          "height": 311.265625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 650,
+          "height": 438.296875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight."
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "route": "services",
+      "images": [
+        {
+          "src": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 480,
+          "height": 600,
+          "loading": "auto",
+          "fetchPriority": "high",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light."
+        },
+        {
+          "src": "/images/ori-studio/services/defined-natural-curls.webp",
+          "width": 320,
+          "height": 400,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with voluminous, defined curls in a warm editorial portrait."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 240,
+          "height": 378.6875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "route": "lookbook",
+      "images": [
+        {
+          "src": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 639.1875,
+          "height": 798.984375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/silk-press.webp",
+          "width": 240,
+          "height": 378.6875,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with smooth, straightened shoulder-length hair."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/two-strand-twists.webp",
+          "width": 240,
+          "height": 387.5,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with medium-sized rope twists over her shoulders."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 240,
+          "height": 395.375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Profile of a Black woman with sculptural Bantu knots."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/loc-updo.webp",
+          "width": 240,
+          "height": 396.734375,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Black woman with locs swept into a high updo."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/long-braids-side-view.webp",
+          "width": 415.453125,
+          "height": 259.65625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Editorial side view of a woman wearing long braids against a terracotta background."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 415.46875,
+          "height": 275.140625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with full defined curls in soft daylight."
+        },
+        {
+          "src": "/images/ori-studio/lookbook/updo-profile.webp",
+          "width": 415.453125,
+          "height": 275.140625,
+          "loading": "lazy",
+          "fetchPriority": "auto",
+          "alt": "Woman with an updo and face-framing twists in a dark olive interior."
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "route": "book",
+      "images": []
+    }
+  ],
+  "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly deep-equal:\n+ actual - expected\n\n+ [\n+   {\n+     location: {\n+       column: 0,\n+       columnNumber: 0,\n+       line: 0,\n+       lineNumber: 0,\n+       url: 'http://localhost:3020/favicon.ico'\n+     },\n+     message: 'Failed to load resource: the server responded with a status of 404 (Not Found)',\n+     page: 'http://localhost:3020/services'\n+   }\n+ ]\n- []\n\n    at /tmp/ori-m5-extended.cjs:14:8"
+}

@@ -1,0 +1,16 @@
+{
+  "checked": [
+    "src/app/page.tsx",
+    "src/app/services/page.tsx",
+    "src/app/lookbook/page.tsx",
+    "src/app/globals.css",
+    "src/app/layout.tsx",
+    "src/components/site-header.tsx",
+    "src/components/site-footer.tsx",
+    "src/content/services.ts",
+    "src/content/lookbook.ts",
+    "package.json",
+    "pnpm-lock.yaml"
+  ],
+  "allUnchanged": true
+}

@@ -1,0 +1,177 @@
+{
+  "checks": [
+    "320px: all routes, entrances/order, no overflow, menu keyboard/Escape, six service links, lookbook filters/lightbox/handoff, booking/back/reset",
+    "390px: all routes, entrances/order, no overflow, menu keyboard/Escape, six service links, lookbook filters/lightbox/handoff, booking/back/reset",
+    "768px: all routes, entrances/order, no overflow, menu keyboard/Escape, six service links, lookbook filters/lightbox/handoff, booking/back/reset",
+    "1024px: all routes, entrances/order, no overflow, menu keyboard/Escape, six service links, lookbook filters/lightbox/handoff, booking/back/reset",
+    "1440px: all routes, entrances/order, no overflow, menu keyboard/Escape, six service links, lookbook filters/lightbox/handoff, booking/back/reset",
+    "Repeated client route navigation cleans up ScrollTriggers and does not duplicate instances",
+    "Live reduced-motion change reverts active JS motion and triggers",
+    "Reduced-motion direct loads show all content and immediate form stages",
+    "No-JavaScript: four route titles and static information remain visible; booking explains its interactive requirement",
+    "No console/hydration errors"
+  ],
+  "errors": [],
+  "metrics": [
+    {
+      "width": 320,
+      "entranceOrder": [
+        "philosophy-title",
+        "services-title",
+        "lookbook-title",
+        "approach-title",
+        "booking-title",
+        "final-title"
+      ],
+      "cls": 0
+    },
+    {
+      "route": "home",
+      "width": 320,
+      "cls": 0
+    },
+    {
+      "route": "services",
+      "width": 320,
+      "cls": 0
+    },
+    {
+      "route": "lookbook",
+      "width": 320,
+      "cls": 0
+    },
+    {
+      "route": "book",
+      "width": 320,
+      "cls": 0
+    },
+    {
+      "width": 390,
+      "entranceOrder": [
+        "philosophy-title",
+        "services-title",
+        "lookbook-title",
+        "approach-title",
+        "booking-title",
+        "final-title"
+      ],
+      "cls": 0
+    },
+    {
+      "route": "home",
+      "width": 390,
+      "cls": 0
+    },
+    {
+      "route": "services",
+      "width": 390,
+      "cls": 0
+    },
+    {
+      "route": "lookbook",
+      "width": 390,
+      "cls": 0
+    },
+    {
+      "route": "book",
+      "width": 390,
+      "cls": 0
+    },
+    {
+      "width": 768,
+      "entranceOrder": [
+        "philosophy-title",
+        "services-title",
+        "lookbook-title",
+        "approach-title",
+        "booking-title",
+        "final-title"
+      ],
+      "cls": 0
+    },
+    {
+      "route": "home",
+      "width": 768,
+      "cls": 0
+    },
+    {
+      "route": "services",
+      "width": 768,
+      "cls": 0
+    },
+    {
+      "route": "lookbook",
+      "width": 768,
+      "cls": 0
+    },
+    {
+      "route": "book",
+      "width": 768,
+      "cls": 0
+    },
+    {
+      "width": 1024,
+      "entranceOrder": [
+        "philosophy-title",
+        "services-title",
+        "lookbook-title",
+        "approach-title",
+        "booking-title",
+        "final-title"
+      ],
+      "cls": 0
+    },
+    {
+      "route": "home",
+      "width": 1024,
+      "cls": 0
+    },
+    {
+      "route": "services",
+      "width": 1024,
+      "cls": 0
+    },
+    {
+      "route": "lookbook",
+      "width": 1024,
+      "cls": 0
+    },
+    {
+      "route": "book",
+      "width": 1024,
+      "cls": 0
+    },
+    {
+      "width": 1440,
+      "entranceOrder": [
+        "philosophy-title",
+        "services-title",
+        "lookbook-title",
+        "approach-title",
+        "booking-title",
+        "final-title"
+      ],
+      "cls": 0
+    },
+    {
+      "route": "home",
+      "width": 1440,
+      "cls": 0
+    },
+    {
+      "route": "services",
+      "width": 1440,
+      "cls": 0
+    },
+    {
+      "route": "lookbook",
+      "width": 1440,
+      "cls": 0
+    },
+    {
+      "route": "book",
+      "width": 1440,
+      "cls": 0
+    }
+  ]
+}

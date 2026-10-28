@@ -1,0 +1,9 @@
+{
+  "cliVersion": "65.4.0",
+  "authentication": "logged-out",
+  "projectLinked": false,
+  "previewCreated": false,
+  "productionDeploymentAttempted": false,
+  "blocker": "Vercel CLI authentication and project linkage are unavailable.",
+  "credentialValuesRecorded": false
+}

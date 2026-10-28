@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {spawnSync} from 'node:child_process';
+const root=path.resolve(import.meta.dirname,'../node_modules/@remotion');
+const native=fs.readdirSync(root).find(n=>n.startsWith('compositor-')&&fs.existsSync(path.join(root,n,process.platform==='win32'?'ffmpeg.exe':'ffmpeg')));
+const input=process.argv[2]||'out/review/ori-studio-render-master.mp4';
+const output=process.argv[3]||'out/ori-studio-showcase.mp4';
+const run=spawnSync(path.join(root,native,process.platform==='win32'?'ffmpeg.exe':'ffmpeg'),['-y','-i',input,'-an','-vf','scale=in_range=pc:out_range=tv:in_color_matrix=bt601:out_color_matrix=bt709','-c:v','libx264','-preset','fast','-crf','16','-threads','2','-pix_fmt','yuv420p','-color_range','tv','-colorspace','bt709','-color_primaries','bt709','-color_trc','bt709','-movflags','+faststart',output],{encoding:'utf8',maxBuffer:8*1024*1024});
+if(run.status!==0)throw Error(run.stderr);
+console.log('Normalized JPEG/full-range capture master to limited-range BT.709 H.264:',output);

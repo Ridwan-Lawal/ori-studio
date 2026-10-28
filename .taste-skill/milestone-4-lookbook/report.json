@@ -1,0 +1,1949 @@
+{
+ "url": "http://localhost:3016/lookbook",
+ "at": "2026-10-27T08:10:07.677Z",
+ "allow": [
+  "eyebrow",
+  "hairline",
+  "numbering",
+  "micro-label",
+  "small-text",
+  "body-size",
+  "still-page",
+  "few-pictures",
+  "empty-screens",
+  "palette-cream",
+  "no-footage",
+  "off-centre",
+  "headline-lines",
+  "mixed-font-headline"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.29,
+    0.56,
+    0.4,
+    0.56
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 2889,
+     "screens": 3.2,
+     "words": 150,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 2,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbr",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fsi",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Ftw",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fba",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Flo",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Flo",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fde",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fup"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Find your next expression.",
+     "words": 4,
+     "chars": 26,
+     "lines": 2,
+     "size": 97.9,
+     "vw": 6.8,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.55,
+     "top": 266,
+     "mixedFonts": [
+      "Instrument Serif",
+      "Instrument Serif italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Find your next expression.",
+     "words": 4,
+     "lines": 2,
+     "size": 97.9,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next expression.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 97.9,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 266,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Silk press",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 1127,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Two-strand twists",
+      "words": 2,
+      "chars": 17,
+      "lines": 2,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 1200,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Braided updo",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 1547,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Bantu knots",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 1837,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Loc updo",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 1902,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Long braids",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 2371,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Defined curls",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.29,
+      "top": 2371,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Updo in profile",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.29,
+      "top": 2371,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.18,
+      "top": 2679,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 8,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.16,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      22,
+      43,
+      72,
+      98
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 14,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.9
+     },
+     "measureChars": 65,
+     "max": {
+      "size": 97.9,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "text": "Find your next"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 1,
+     "microLabelShare": 0.009,
+     "microSamples": [
+      "Lookbook"
+     ],
+     "upperShare": 0.01,
+     "centerShare": 0.06,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Skip to content",
+      "above": "ORÍ Studio",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": -58
+     },
+     {
+      "text": "Lookbook",
+      "above": "Find your next expression.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 226
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee8dd",
+       "top": 732,
+       "hsl": {
+        "h": 39,
+        "s": 0.33,
+        "l": 0.9
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.73
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.19
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.08
+      },
+      {
+       "color": "#91432d",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": 0,
+     "height": 50,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Try booking"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "div._ro6Kq_galleryControls 1310px",
+      "div.footer-top 1310px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 8,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.08
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 96,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 2889,
+    "margins": {
+     "left": 65,
+     "right": 65
+    },
+    "sections": [
+     {
+      "sel": "section.site-container._ro6Kq_intro",
+      "tag": "section",
+      "top": 96,
+      "height": 429,
+      "words": 30,
+      "media": 0,
+      "middle": 410,
+      "heading": {
+       "text": "Find your next",
+       "size": 98,
+       "tag": "h1"
+      },
+      "left": 65,
+      "right": 99,
+      "textLeft": 65,
+      "textRight": 99,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div._ro6Kq_galleryControls",
+      "tag": "div",
+      "top": 525,
+      "height": 128,
+      "words": 11,
+      "media": 0,
+      "middle": 455,
+      "heading": null,
+      "left": 65,
+      "right": 65,
+      "textLeft": 77,
+      "textRight": 273,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "ul._ro6Kq_galleryGrid",
+      "tag": "ul",
+      "top": 732,
+      "height": 1768,
+      "words": 52,
+      "media": 8,
+      "middle": 0,
+      "heading": {
+       "text": "Silk press",
+       "size": 43,
+       "tag": "span"
+      },
+      "left": 65,
+      "right": 65,
+      "textLeft": 65,
+      "textRight": 193,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 2630,
+      "height": 260,
+      "words": 33,
+      "media": 0,
+      "middle": 421,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 72,
+       "tag": "a"
+      },
+      "left": 65,
+      "right": 65,
+      "textLeft": 65,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Find your next expression.",
+      "size": 98,
+      "top": 266,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 65,
+      "n": 2
+     },
+     {
+      "x": 922,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 3,
+    "bodySize": 14,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.17,
+    "voidBox": {
+     "x": 540,
+     "y": 120,
+     "w": 900,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.4,
+    0.36,
+    0.47
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 2242,
+     "screens": 2.2,
+     "words": 145,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 2,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbr",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fsi",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Ftw",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fba",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Flo",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Flo",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fde",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fup"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Find your next expression.",
+     "words": 4,
+     "chars": 26,
+     "lines": 2,
+     "size": 52.2,
+     "vw": 6.8,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.53,
+     "top": 222,
+     "mixedFonts": [
+      "Instrument Serif",
+      "Instrument Serif italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Find your next expression.",
+     "words": 4,
+     "lines": 2,
+     "size": 52.2,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.13,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next expression.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 52.2,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 222,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Silk press",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 927,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Two-strand twists",
+      "words": 2,
+      "chars": 17,
+      "lines": 2,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 996,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Braided updo",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 1106,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Bantu knots",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 1452,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Loc updo",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 1517,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Long braids",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 1833,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Defined curls",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.28,
+      "top": 1833,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Updo in profile",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.28,
+      "top": 1833,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 2067,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 8,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.16,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      18,
+      28,
+      40,
+      52
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 14,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.9
+     },
+     "measureChars": 33,
+     "max": {
+      "size": 52.2,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "text": "Find your next"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 1,
+     "microLabelShare": 0.009,
+     "microSamples": [
+      "Lookbook"
+     ],
+     "upperShare": 0.01,
+     "centerShare": 0.07,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Lookbook",
+      "above": "Find your next expression.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 182
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.73
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.18
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.08
+      },
+      {
+       "color": "#91432d",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 50,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "div._ro6Kq_galleryControls 699px",
+      "div.footer-top 699px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.15
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 92,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 2242,
+    "margins": {
+     "left": 35,
+     "right": 35
+    },
+    "sections": [
+     {
+      "sel": "section.site-container._ro6Kq_intro",
+      "tag": "section",
+      "top": 92,
+      "height": 298,
+      "words": 30,
+      "media": 0,
+      "middle": 195,
+      "heading": {
+       "text": "Find your next",
+       "size": 52,
+       "tag": "h1"
+      },
+      "left": 35,
+      "right": 42,
+      "textLeft": 35,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.site-container._ro6Kq_gallerySection",
+      "tag": "section",
+      "top": 390,
+      "height": 1628,
+      "words": 68,
+      "media": 8,
+      "middle": 0,
+      "heading": {
+       "text": "Braided updo",
+       "size": 28,
+       "tag": "span"
+      },
+      "left": 35,
+      "right": 35,
+      "textLeft": 35,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 2018,
+      "height": 224,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 40,
+       "tag": "a"
+      },
+      "left": 35,
+      "right": 35,
+      "textLeft": 35,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Find your next expression.",
+      "size": 52,
+      "top": 222,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 35,
+      "n": 1
+     },
+     {
+      "x": 114,
+      "n": 1
+     },
+     {
+      "x": 503,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 3,
+    "bodySize": 14,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.34,
+    0.75,
+    0.61,
+    0.63,
+    0.77
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 4048,
+     "screens": 4.8,
+     "words": 145,
+     "img": 8,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 2,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbr",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fsi",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Ftw",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fba",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Flo",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Flo",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fde",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fup"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Find your next expression.",
+     "words": 4,
+     "chars": 26,
+     "lines": 2,
+     "size": 48,
+     "vw": 12.3,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 180,
+     "mixedFonts": [
+      "Instrument Serif",
+      "Instrument Serif italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Find your next expression.",
+     "words": 4,
+     "lines": 2,
+     "size": 48,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next expression.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 180,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Braided updo",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1274,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Silk press",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 1707,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Two-strand twists",
+      "words": 2,
+      "chars": 17,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.42,
+      "top": 1713,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Bantu knots",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 2190,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Loc updo",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.42,
+      "top": 2191,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Long braids",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2586,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Defined curls",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2994,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Updo in profile",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3402,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 3635,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 8,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 1
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.16,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      18,
+      28,
+      40,
+      48
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 14,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.9
+     },
+     "measureChars": 50,
+     "max": {
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "text": "Find your next"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 1,
+     "microLabelShare": 0.009,
+     "microSamples": [
+      "Lookbook"
+     ],
+     "upperShare": 0.01,
+     "centerShare": 0.07,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Lookbook",
+      "above": "Find your next expression.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 140
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee8dd",
+       "top": 820,
+       "hsl": {
+        "h": 39,
+        "s": 0.33,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#20382e",
+       "top": 3586,
+       "hsl": {
+        "h": 155,
+        "s": 0.27,
+        "l": 0.17
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.73
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.18
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.08
+      },
+      {
+       "color": "#91432d",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 50,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "div._ro6Kq_galleryControls 350px",
+      "div.footer-top 350px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 92,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 4048,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section.site-container._ro6Kq_intro",
+      "tag": "section",
+      "top": 92,
+      "height": 394,
+      "words": 30,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Find your next",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 41,
+      "textLeft": 20,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div._ro6Kq_galleryControls",
+      "tag": "div",
+      "top": 486,
+      "height": 256,
+      "words": 11,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 23,
+      "textLeft": 20,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "ul._ro6Kq_galleryGrid",
+      "tag": "ul",
+      "top": 820,
+      "height": 2694,
+      "words": 52,
+      "media": 8,
+      "middle": 0,
+      "heading": {
+       "text": "Braided updo",
+       "size": 28,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 39,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 3586,
+      "height": 462,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 40,
+       "tag": "a"
+      },
+      "left": 20,
+      "right": 33,
+      "textLeft": 20,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Find your next expression.",
+      "size": 48,
+      "top": 180,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 2
+     },
+     {
+      "x": 93,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 3,
+    "bodySize": 14,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-lookbook/desktop-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-lookbook/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-lookbook/tablet-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-lookbook/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-lookbook/mobile-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-lookbook/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+  "home-390": {
+    "old_size": [
+      390,
+      6993
+    ],
+    "new_size": [
+      390,
+      6993
+    ],
+    "difference_bounds": null
+  },
+  "home-1440": {
+    "old_size": [
+      1440,
+      6919
+    ],
+    "new_size": [
+      1440,
+      6919
+    ],
+    "difference_bounds": null
+  },
+  "lookbook-390": {
+    "old_size": [
+      390,
+      4101
+    ],
+    "new_size": [
+      390,
+      4101
+    ],
+    "difference_bounds": [
+      20,
+      1439,
+      183,
+      1696
+    ]
+  },
+  "lookbook-1440": {
+    "old_size": [
+      1440,
+      2903
+    ],
+    "new_size": [
+      1440,
+      2903
+    ],
+    "difference_bounds": [
+      65,
+      732,
+      976,
+      1531
+    ]
+  }
+}

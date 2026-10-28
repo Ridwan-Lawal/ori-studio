@@ -1,0 +1,23 @@
+{
+  "unchanged": [
+    "src/app/services/page.tsx",
+    "src/app/lookbook/page.tsx",
+    "src/app/layout.tsx",
+    "src/components/site-header.tsx",
+    "src/components/site-footer.tsx",
+    "src/content/services.ts",
+    "src/content/lookbook.ts"
+  ],
+  "motionChunk": {
+    "file": "3qaajvt_2ctkd.js",
+    "rawBytes": 116409,
+    "gzipBytes": 45200
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "gsap": "^3.15.0",
+    "next": "16.4.3",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  }
+}

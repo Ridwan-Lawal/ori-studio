@@ -1,0 +1,248 @@
+{
+  "brand": "ORÍ Studio",
+  "license_note": "AI-generated fictional concept imagery, not photos of a real salon or clients.",
+  "selected_assets": [
+    {
+      "path": "public/images/ori-studio/hero/hero-natural-afro.webp",
+      "source_filename": "editorial_portrait_with_natural_afro.png",
+      "source_collection": "original-portraits",
+      "width": 1122,
+      "height": 1402,
+      "recommended_max_display_width_px": 780,
+      "display_class": "primary",
+      "object_position": "58% 40%",
+      "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric.",
+      "placements": "Home: right-side hero photograph; mobile hero below headline",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/services/knotless-braids.webp",
+      "source_filename": "braided_beauty_in_earthy_elegance.png",
+      "source_collection": "original-portraits",
+      "width": 1122,
+      "height": 1402,
+      "recommended_max_display_width_px": 700,
+      "display_class": "primary",
+      "object_position": "55% 35%",
+      "alt": "Black woman with long, neat braids and gold earrings in warm studio light.",
+      "placements": "Services: featured protective-style portrait; /services image",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/services/defined-natural-curls.webp",
+      "source_filename": "radiant_afro_editorial_portrait.png",
+      "source_collection": "original-portraits",
+      "width": 1122,
+      "height": 1402,
+      "recommended_max_display_width_px": 700,
+      "display_class": "primary",
+      "object_position": "52% 35%",
+      "alt": "Black woman with voluminous, defined curls in a warm editorial portrait.",
+      "placements": "Services: natural hair styling illustration; featured services",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/lookbook/braided-updo-editorial.webp",
+      "source_filename": "warm_earthy_beauty_portrait.png",
+      "source_collection": "original-portraits",
+      "width": 1122,
+      "height": 1402,
+      "recommended_max_display_width_px": 700,
+      "display_class": "primary",
+      "object_position": "60% 35%",
+      "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background.",
+      "placements": "Lookbook: large featured portrait; updo inspiration",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/lookbook/silk-press.webp",
+      "source_filename": "05-silk-press.webp",
+      "source_collection": "collection-03",
+      "width": 308,
+      "height": 486,
+      "recommended_max_display_width_px": 290,
+      "display_class": "limited",
+      "object_position": "50% 30%",
+      "alt": "Black woman with smooth, straightened shoulder-length hair.",
+      "placements": "Lookbook: compact silk press card; do not enlarge",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/lookbook/two-strand-twists.webp",
+      "source_filename": "06-two-strand-twists.webp",
+      "source_collection": "collection-03",
+      "width": 301,
+      "height": 486,
+      "recommended_max_display_width_px": 280,
+      "display_class": "limited",
+      "object_position": "50% 35%",
+      "alt": "Black woman with medium-sized rope twists over her shoulders.",
+      "placements": "Lookbook: compact twists card; do not enlarge",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/lookbook/bantu-knots.webp",
+      "source_filename": "07-bantu-knots.webp",
+      "source_collection": "collection-03",
+      "width": 295,
+      "height": 486,
+      "recommended_max_display_width_px": 270,
+      "display_class": "limited",
+      "object_position": "55% 35%",
+      "alt": "Profile of a Black woman with sculptural Bantu knots.",
+      "placements": "Lookbook: compact Bantu knots card; do not enlarge",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/lookbook/loc-updo.webp",
+      "source_filename": "08-loc-updo.webp",
+      "source_collection": "collection-03",
+      "width": 294,
+      "height": 486,
+      "recommended_max_display_width_px": 270,
+      "display_class": "limited",
+      "object_position": "50% 32%",
+      "alt": "Black woman with locs swept into a high updo.",
+      "placements": "Lookbook: compact loc updo card; not evidence of a retwist service",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/lookbook/long-braids-side-view.webp",
+      "source_filename": "lookbook-02.webp",
+      "source_collection": "lookbook-batch-02",
+      "width": 758,
+      "height": 502,
+      "recommended_max_display_width_px": 470,
+      "display_class": "limited",
+      "object_position": "53% 40%",
+      "alt": "Editorial side view of a woman wearing long braids against a terracotta background.",
+      "placements": "Lookbook: compact landscape editorial tile",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/lookbook/defined-curls-daylight.webp",
+      "source_filename": "lookbook-07.webp",
+      "source_collection": "lookbook-batch-02",
+      "width": 758,
+      "height": 502,
+      "recommended_max_display_width_px": 470,
+      "display_class": "limited",
+      "object_position": "50% 40%",
+      "alt": "Woman with full defined curls in soft daylight.",
+      "placements": "Lookbook: compact landscape editorial tile",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/lookbook/updo-profile.webp",
+      "source_filename": "lookbook-08.webp",
+      "source_collection": "lookbook-batch-02",
+      "width": 758,
+      "height": 502,
+      "recommended_max_display_width_px": 470,
+      "display_class": "limited",
+      "object_position": "50% 40%",
+      "alt": "Woman with an updo and face-framing twists in a dark olive interior.",
+      "placements": "Lookbook: compact landscape editorial tile",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/editorial/salon-interior-wide.webp",
+      "source_filename": "10-salon-wide-interior.webp",
+      "source_collection": "collection-03",
+      "width": 829,
+      "height": 559,
+      "recommended_max_display_width_px": 650,
+      "display_class": "limited",
+      "object_position": "50% 52%",
+      "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight.",
+      "placements": "Home: Our Approach supporting photograph; interior preview only",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/editorial/salon-interior-detail.webp",
+      "source_filename": "01-salon-interior.webp",
+      "source_collection": "collection-03",
+      "width": 602,
+      "height": 527,
+      "recommended_max_display_width_px": 480,
+      "display_class": "limited",
+      "object_position": "53% 50%",
+      "alt": "Fictional salon styling stations with wood cabinetry, mirrors and greenery.",
+      "placements": "Homepage editorial detail or About section, not full bleed",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/editorial/amber-haircare-still-life.webp",
+      "source_filename": "02-haircare-products.webp",
+      "source_collection": "collection-03",
+      "width": 306,
+      "height": 527,
+      "recommended_max_display_width_px": 280,
+      "display_class": "limited",
+      "object_position": "50% 50%",
+      "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight.",
+      "placements": "Home: haircare philosophy accent; small portrait tile",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/editorial/styling-tools-still-life.webp",
+      "source_filename": "03-styling-tools.webp",
+      "source_collection": "collection-03",
+      "width": 302,
+      "height": 527,
+      "recommended_max_display_width_px": 280,
+      "display_class": "limited",
+      "object_position": "50% 50%",
+      "alt": "Wooden combs and brushes with a towel and haircare bowl.",
+      "placements": "Services: compact details image",
+      "asset_type": "AI-generated fictional concept imagery"
+    },
+    {
+      "path": "public/images/ori-studio/editorial/curl-texture-detail.webp",
+      "source_filename": "09-natural-curls-detail.webp",
+      "source_collection": "collection-03",
+      "width": 305,
+      "height": 486,
+      "recommended_max_display_width_px": 280,
+      "display_class": "limited",
+      "object_position": "50% 50%",
+      "alt": "Detailed close crop showing coily dark hair texture.",
+      "placements": "Home: optional small detail; thumbnail only",
+      "asset_type": "AI-generated fictional concept imagery"
+    }
+  ],
+  "review_only_assets": [
+    {
+      "path": "assets/review-only/lookbook-01.webp",
+      "note": "Duplicate or near-duplicate editorial look; alternate crop only"
+    },
+    {
+      "path": "assets/review-only/lookbook-03.webp",
+      "note": "Duplicate or near-duplicate editorial look; alternate crop only"
+    },
+    {
+      "path": "assets/review-only/lookbook-04.webp",
+      "note": "Duplicate or near-duplicate editorial look; alternate crop only"
+    },
+    {
+      "path": "assets/review-only/lookbook-05.webp",
+      "note": "Duplicate or near-duplicate editorial look; alternate crop only"
+    },
+    {
+      "path": "assets/review-only/lookbook-06.webp",
+      "note": "Duplicate or near-duplicate editorial look; alternate crop only"
+    },
+    {
+      "path": "assets/review-only/04-braided-updo.webp",
+      "note": "Alternate cropped braided updo; high-resolution editorial updo is preferred"
+    }
+  ],
+  "social_preview": {
+    "path": "public/images/ori-studio/social-preview.png",
+    "width": 1200,
+    "height": 630,
+    "source": "public/images/ori-studio/hero/hero-natural-afro.webp",
+    "purpose": "Social sharing metadata only; browser-rendered approved typography and portrait at 504×630, without upscaling.",
+    "disclosure": "ORÍ Studio is a fictional portfolio concept. No real appointments are accepted."
+  }
+}

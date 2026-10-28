@@ -1,0 +1,18 @@
+[
+  {
+    "width": 390,
+    "errorBoundaryRendered": true,
+    "headingFocused": true,
+    "axeViolations": 0,
+    "retryRecovered": true,
+    "expectedInjectedErrors": []
+  },
+  {
+    "width": 1440,
+    "errorBoundaryRendered": true,
+    "headingFocused": true,
+    "axeViolations": 0,
+    "retryRecovered": true,
+    "expectedInjectedErrors": []
+  }
+]

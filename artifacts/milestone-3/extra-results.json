@@ -1,0 +1,11 @@
+{
+  "checks": [
+    "Lookbook dialog CTA preselects matching service",
+    "Enter and Tab operate the flow with heading-to-field focus",
+    "Review progress identifies current step",
+    "Start again clears URL-preselected service",
+    "Reload retains only incoming referral service, not date/time preferences",
+    "No console errors"
+  ],
+  "errors": []
+}

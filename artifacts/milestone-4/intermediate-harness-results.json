@@ -1,0 +1,140 @@
+{
+  "checks": [
+    "320px: all routes, entrances/order, no overflow, menu keyboard/Escape, six service links, lookbook filters/lightbox/handoff, booking/back/reset",
+    "390px: all routes, entrances/order, no overflow, menu keyboard/Escape, six service links, lookbook filters/lightbox/handoff, booking/back/reset",
+    "768px: all routes, entrances/order, no overflow, menu keyboard/Escape, six service links, lookbook filters/lightbox/handoff, booking/back/reset",
+    "1440px: all routes, entrances/order, no overflow, menu keyboard/Escape, six service links, lookbook filters/lightbox/handoff, booking/back/reset"
+  ],
+  "errors": [],
+  "metrics": [
+    {
+      "width": 320,
+      "entranceOrder": [
+        "philosophy-title",
+        "services-title",
+        "lookbook-title",
+        "approach-title",
+        "booking-title",
+        "final-title"
+      ],
+      "cls": 0
+    },
+    {
+      "route": "home",
+      "width": 320,
+      "cls": 0
+    },
+    {
+      "route": "services",
+      "width": 320,
+      "cls": 0
+    },
+    {
+      "route": "lookbook",
+      "width": 320,
+      "cls": 0
+    },
+    {
+      "route": "book",
+      "width": 320,
+      "cls": 0
+    },
+    {
+      "width": 390,
+      "entranceOrder": [
+        "philosophy-title",
+        "services-title",
+        "lookbook-title",
+        "approach-title",
+        "booking-title",
+        "final-title"
+      ],
+      "cls": 0
+    },
+    {
+      "route": "home",
+      "width": 390,
+      "cls": 0
+    },
+    {
+      "route": "services",
+      "width": 390,
+      "cls": 0
+    },
+    {
+      "route": "lookbook",
+      "width": 390,
+      "cls": 0
+    },
+    {
+      "route": "book",
+      "width": 390,
+      "cls": 0
+    },
+    {
+      "width": 768,
+      "entranceOrder": [
+        "philosophy-title",
+        "services-title",
+        "lookbook-title",
+        "approach-title",
+        "booking-title",
+        "final-title"
+      ],
+      "cls": 0
+    },
+    {
+      "route": "home",
+      "width": 768,
+      "cls": 0
+    },
+    {
+      "route": "services",
+      "width": 768,
+      "cls": 0
+    },
+    {
+      "route": "lookbook",
+      "width": 768,
+      "cls": 0
+    },
+    {
+      "route": "book",
+      "width": 768,
+      "cls": 0
+    },
+    {
+      "width": 1440,
+      "entranceOrder": [
+        "philosophy-title",
+        "services-title",
+        "lookbook-title",
+        "approach-title",
+        "booking-title",
+        "final-title"
+      ],
+      "cls": 0
+    },
+    {
+      "route": "home",
+      "width": 1440,
+      "cls": 0
+    },
+    {
+      "route": "services",
+      "width": 1440,
+      "cls": 0
+    },
+    {
+      "route": "lookbook",
+      "width": 1440,
+      "cls": 0
+    },
+    {
+      "route": "book",
+      "width": 1440,
+      "cls": 0
+    }
+  ],
+  "failure": "locator.click: Error: strict mode violation: getByRole('link', { name: 'ORÍ Studio home', exact: true }) resolved to 2 elements:\n    1) <a href=\"/\" class=\"wordmark\" aria-label=\"ORÍ Studio home\">ORÍ Studio</a> aka locator('#top').getByRole('link', { name: 'ORÍ Studio home' })\n    2) <a href=\"/\" class=\"footer-wordmark\" aria-label=\"ORÍ Studio home\">ORÍ Studio</a> aka getByRole('contentinfo').getByRole('link', { name: 'ORÍ Studio home' })\n\nCall log:\n\u001b[2m  - waiting for getByRole('link', { name: 'ORÍ Studio home', exact: true })\u001b[22m\n\n    at /tmp/ori-m4-qa.cjs:16:837"
+}

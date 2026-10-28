@@ -1,0 +1,2398 @@
+{
+ "url": "http://localhost:3021/services",
+ "at": "2026-10-27T10:41:56.714Z",
+ "allow": [
+  "eyebrow",
+  "hairline",
+  "numbering",
+  "micro-label",
+  "small-text",
+  "body-size",
+  "few-pictures",
+  "empty-screens",
+  "palette-cream",
+  "no-footage",
+  "off-centre",
+  "headline-lines",
+  "mixed-font-headline",
+  "card-rows",
+  "still-page"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.36,
+    0.11,
+    0.25,
+    0.18,
+    0.34
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4448,
+     "screens": 4.9,
+     "words": 349,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fori-studio%2Fservices%2Fkn",
+      "image?url=%2Fimages%2Fori-studio%2Fservices%2Fde",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fsi"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Care for every chapter of your hair.",
+     "words": 7,
+     "chars": 36,
+     "lines": 2,
+     "size": 97.9,
+     "vw": 6.8,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.52,
+     "top": 267,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Care for every chapter of your hair.",
+     "words": 7,
+     "lines": 2,
+     "size": 97.9,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Care for every chapter of your hair.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 97.9,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.52,
+      "top": 267,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Protective Styling",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 1105,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Knotless Braids",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1309,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Flat Twists",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 1540,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Natural Haircare",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 1907,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Deep Conditioning Treatment",
+      "words": 3,
+      "chars": 27,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 2111,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Wash & Define",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 2368,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Styling & Maintenance",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 3002,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Silk Press",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 3207,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Loc Retwist",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 3683,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next expression.",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 4010,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.18,
+      "top": 4237,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.9,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.1,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      22,
+      43,
+      72,
+      98
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.9
+     },
+     "measureChars": 68,
+     "max": {
+      "size": 97.9,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "text": "Care for every chapter of your hair."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 4,
+     "microLabelShare": 0.021,
+     "microSamples": [
+      "Services",
+      "01 / Services",
+      "02 / Services",
+      "03 / Services"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0,
+     "smallText": 3
+    },
+    "eyebrows": [
+     {
+      "text": "Skip to content",
+      "above": "ORÍ Studio",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": -58
+     },
+     {
+      "text": "Services",
+      "above": "Care for every chapter of your hair.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 227
+     },
+     {
+      "text": "01 / Services",
+      "above": "Protective Styling",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1065
+     },
+     {
+      "text": "02 / Services",
+      "above": "Natural Haircare",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1867
+     },
+     {
+      "text": "03 / Services",
+      "above": "Styling & Maintenance",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2962
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / Services",
+      "size": 12,
+      "top": 1065
+     },
+     {
+      "text": "02 / Services",
+      "size": 12,
+      "top": 1867
+     },
+     {
+      "text": "03 / Services",
+      "size": 12,
+      "top": 2962
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.87
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.07
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.03
+      },
+      {
+       "color": "#91432d",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": 0,
+     "height": 50,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Try booking"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 8,
+     "hairlineSamples": [
+      "nav.site-container._ro6Kq_categoryNavigation 1310px",
+      "article#knotless-braids._ro6Kq_serviceEntry 1310px",
+      "article#flat-twists._ro6Kq_serviceEntry 1310px",
+      "article#deep-conditioning._ro6Kq_serviceEntry 1310px",
+      "article#wash-and-define._ro6Kq_serviceEntry._ro6Kq_illustrat 1310px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.22
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 96,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4448,
+    "margins": {
+     "left": 65,
+     "right": 90
+    },
+    "sections": [
+     {
+      "sel": "section.site-container._ro6Kq_intro",
+      "tag": "section",
+      "top": 96,
+      "height": 745,
+      "words": 50,
+      "media": 1,
+      "middle": 202,
+      "heading": {
+       "text": "Care for every chapter of your hair.",
+       "size": 98,
+       "tag": "h1"
+      },
+      "left": 65,
+      "right": 65,
+      "textLeft": 65,
+      "textRight": 267,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#protective-styling.site-container._ro6Kq_categorySec",
+      "tag": "section",
+      "top": 935,
+      "height": 932,
+      "words": 83,
+      "media": 0,
+      "middle": 159,
+      "heading": {
+       "text": "Protective Styling",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 65,
+      "right": 256,
+      "textLeft": 65,
+      "textRight": 256,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#natural-haircare.site-container._ro6Kq_categorySecti",
+      "tag": "section",
+      "top": 1867,
+      "height": 1095,
+      "words": 85,
+      "media": 1,
+      "middle": 103,
+      "heading": {
+       "text": "Natural Haircare",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 65,
+      "right": 268,
+      "textLeft": 65,
+      "textRight": 281,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#styling-maintenance.site-container._ro6Kq_categorySe",
+      "tag": "section",
+      "top": 2962,
+      "height": 1048,
+      "words": 76,
+      "media": 1,
+      "middle": 31,
+      "heading": {
+       "text": "Styling & Maintenance",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 65,
+      "right": 308,
+      "textLeft": 65,
+      "textRight": 334,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.site-container._ro6Kq_pageClosing",
+      "tag": "section",
+      "top": 4010,
+      "height": 178,
+      "words": 3,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 1211,
+      "right": 91,
+      "textLeft": 1211,
+      "textRight": 91,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 4188,
+      "height": 260,
+      "words": 33,
+      "media": 0,
+      "middle": 421,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 72,
+       "tag": "a"
+      },
+      "left": 65,
+      "right": 65,
+      "textLeft": 65,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Care for every chapter of your hair.",
+      "size": 98,
+      "top": 267,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 65,
+      "n": 15
+     },
+     {
+      "x": 648,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 19,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.08,
+    "voidBox": {
+     "x": 240,
+     "y": 660,
+     "w": 600,
+     "h": 180
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.34,
+    0.24,
+    0.44,
+    0.4
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 3877,
+     "screens": 3.8,
+     "words": 344,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fori-studio%2Fservices%2Fkn",
+      "image?url=%2Fimages%2Fori-studio%2Fservices%2Fde",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fsi"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Care for every chapter of your hair.",
+     "words": 7,
+     "chars": 36,
+     "lines": 2,
+     "size": 52.2,
+     "vw": 6.8,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.5,
+     "top": 180,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Care for every chapter of your hair.",
+     "words": 7,
+     "lines": 2,
+     "size": 52.2,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.13,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Care for every chapter of your hair.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 52.2,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 180,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Protective Styling",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 801,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Knotless Braids",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 972,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Flat Twists",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 1229,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Natural Haircare",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 1563,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Deep Conditioning Treatment",
+      "words": 3,
+      "chars": 27,
+      "lines": 2,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 1735,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Wash & Define",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 2017,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Styling & Maintenance",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 2593,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Silk Press",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 2765,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Loc Retwist",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 3242,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next expression.",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 3543,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 3702,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.9,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.1,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      18,
+      28,
+      40,
+      52
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.9
+     },
+     "measureChars": 46,
+     "max": {
+      "size": 52.2,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "text": "Care for every chapter of your hair."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 4,
+     "microLabelShare": 0.021,
+     "microSamples": [
+      "Services",
+      "01 / Services",
+      "02 / Services",
+      "03 / Services"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0,
+     "smallText": 3
+    },
+    "eyebrows": [
+     {
+      "text": "Services",
+      "above": "Care for every chapter of your hair.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 140
+     },
+     {
+      "text": "01 / Services",
+      "above": "Protective Styling",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 761
+     },
+     {
+      "text": "02 / Services",
+      "above": "Natural Haircare",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1524
+     },
+     {
+      "text": "03 / Services",
+      "above": "Styling & Maintenance",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2554
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / Services",
+      "size": 12,
+      "top": 761
+     },
+     {
+      "text": "02 / Services",
+      "size": 12,
+      "top": 1524
+     },
+     {
+      "text": "03 / Services",
+      "size": 12,
+      "top": 2554
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.88
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.07
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.03
+      },
+      {
+       "color": "#91432d",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 50,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 8,
+     "hairlineSamples": [
+      "nav.site-container._ro6Kq_categoryNavigation 699px",
+      "article#knotless-braids._ro6Kq_serviceEntry 699px",
+      "article#flat-twists._ro6Kq_serviceEntry 699px",
+      "article#deep-conditioning._ro6Kq_serviceEntry 699px",
+      "article#wash-and-define._ro6Kq_serviceEntry._ro6Kq_illustrat 699px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.1
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 92,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 3877,
+    "margins": {
+     "left": 35,
+     "right": 35
+    },
+    "sections": [
+     {
+      "sel": "section.site-container._ro6Kq_intro",
+      "tag": "section",
+      "top": 92,
+      "height": 503,
+      "words": 50,
+      "media": 1,
+      "middle": 72,
+      "heading": {
+       "text": "Care for every chapter of your hair.",
+       "size": 52,
+       "tag": "h1"
+      },
+      "left": 35,
+      "right": 35,
+      "textLeft": 35,
+      "textRight": 86,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#protective-styling.site-container._ro6Kq_categorySec",
+      "tag": "section",
+      "top": 689,
+      "height": 835,
+      "words": 83,
+      "media": 0,
+      "middle": 46,
+      "heading": {
+       "text": "Protective Styling",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 35,
+      "right": 36,
+      "textLeft": 35,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#natural-haircare.site-container._ro6Kq_categorySecti",
+      "tag": "section",
+      "top": 1524,
+      "height": 1030,
+      "words": 85,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Natural Haircare",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 35,
+      "right": 58,
+      "textLeft": 35,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#styling-maintenance.site-container._ro6Kq_categorySe",
+      "tag": "section",
+      "top": 2554,
+      "height": 983,
+      "words": 76,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Styling & Maintenance",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 35,
+      "right": 69,
+      "textLeft": 35,
+      "textRight": 69,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 3653,
+      "height": 224,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 40,
+       "tag": "a"
+      },
+      "left": 35,
+      "right": 35,
+      "textLeft": 35,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Care for every chapter of your hair.",
+      "size": 52,
+      "top": 180,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 35,
+      "n": 15
+     },
+     {
+      "x": 363,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 19,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.63,
+    0.42,
+    0.29,
+    0.41,
+    0.52,
+    0.41,
+    0.59
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5769,
+     "screens": 6.8,
+     "words": 344,
+     "img": 3,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fori-studio%2Fservices%2Fkn",
+      "image?url=%2Fimages%2Fori-studio%2Fservices%2Fde",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fsi"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Care for every chapter of your hair.",
+     "words": 7,
+     "chars": 36,
+     "lines": 2,
+     "size": 48,
+     "vw": 12.3,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 180,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Care for every chapter of your hair.",
+     "words": 7,
+     "lines": 2,
+     "size": 48,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Care for every chapter of your hair.",
+      "words": 7,
+      "chars": 36,
+      "lines": 2,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 180,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Protective Styling",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1384,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Knotless Braids",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1555,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Flat Twists",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1905,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Natural Haircare",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2332,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Deep Conditioning Treatment",
+      "words": 3,
+      "chars": 27,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2530,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Wash & Define",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2904,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Styling & Maintenance",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3809,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Silk Press",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3981,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Loc Retwist",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4748,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Find your next expression.",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.64,
+      "top": 5136,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 5357,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.9,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.1,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      18,
+      28,
+      40,
+      48
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.9
+     },
+     "measureChars": 44,
+     "max": {
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "text": "Care for every chapter of your hair."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 4,
+     "microLabelShare": 0.021,
+     "microSamples": [
+      "Services",
+      "01 / Services",
+      "02 / Services",
+      "03 / Services"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0,
+     "smallText": 3
+    },
+    "eyebrows": [
+     {
+      "text": "Services",
+      "above": "Care for every chapter of your hair.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 140
+     },
+     {
+      "text": "01 / Services",
+      "above": "Protective Styling",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1344
+     },
+     {
+      "text": "02 / Services",
+      "above": "Natural Haircare",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2293
+     },
+     {
+      "text": "03 / Services",
+      "above": "Styling & Maintenance",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3769
+     },
+     {
+      "text": "Silk Press — style inspiration.",
+      "above": "Loc Retwist",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 4650
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / Services",
+      "size": 12,
+      "top": 1344
+     },
+     {
+      "text": "02 / Services",
+      "size": 12,
+      "top": 2293
+     },
+     {
+      "text": "03 / Services",
+      "size": 12,
+      "top": 3769
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee8dd",
+       "top": 592,
+       "hsl": {
+        "h": 39,
+        "s": 0.33,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#20382e",
+       "top": 5308,
+       "hsl": {
+        "h": 155,
+        "s": 0.27,
+        "l": 0.17
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.88
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.07
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.03
+      },
+      {
+       "color": "#91432d",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 50,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 8,
+     "hairlineSamples": [
+      "nav.site-container._ro6Kq_categoryNavigation 350px",
+      "article#knotless-braids._ro6Kq_serviceEntry 350px",
+      "article#flat-twists._ro6Kq_serviceEntry 350px",
+      "article#deep-conditioning._ro6Kq_serviceEntry 350px",
+      "article#wash-and-define._ro6Kq_serviceEntry._ro6Kq_illustrat 350px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.27
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 92,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5769,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section.site-container._ro6Kq_intro",
+      "tag": "section",
+      "top": 92,
+      "height": 1034,
+      "words": 50,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Care for every chapter of your hair.",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "nav.site-container._ro6Kq_categoryNavigation",
+      "tag": "nav",
+      "top": 1126,
+      "height": 146,
+      "words": 7,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 78,
+      "textLeft": 20,
+      "textRight": 78,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#protective-styling.site-container._ro6Kq_categorySec",
+      "tag": "section",
+      "top": 1272,
+      "height": 1021,
+      "words": 83,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Protective Styling",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 32,
+      "textLeft": 20,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div._ro6Kq_categoryHeading",
+      "tag": "div",
+      "top": 2293,
+      "height": 156,
+      "words": 12,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Natural Haircare",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 74,
+      "textLeft": 20,
+      "textRight": 74,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div._ro6Kq_fullListing",
+      "tag": "div",
+      "top": 2497,
+      "height": 1201,
+      "words": 73,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Deep Conditioning Treatment",
+       "size": 28,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div._ro6Kq_categoryHeading",
+      "tag": "div",
+      "top": 3769,
+      "height": 130,
+      "words": 15,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Styling & Maintenance",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 30,
+      "textLeft": 20,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div._ro6Kq_fullListing",
+      "tag": "div",
+      "top": 3948,
+      "height": 1116,
+      "words": 61,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Silk Press",
+       "size": 28,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 34,
+      "textLeft": 20,
+      "textRight": 34,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.site-container._ro6Kq_pageClosing",
+      "tag": "section",
+      "top": 5136,
+      "height": 171,
+      "words": 3,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 232,
+      "textLeft": 20,
+      "textRight": 232,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 5308,
+      "height": 462,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 40,
+       "tag": "a"
+      },
+      "left": 20,
+      "right": 33,
+      "textLeft": 20,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Care for every chapter of your hair.",
+      "size": 48,
+      "top": 180,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 19
+     }
+    ],
+    "leftBlocks": 19,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-5-services/desktop-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-5-services/desktop-page-01.jpg",
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-5-services/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-5-services/tablet-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-5-services/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-5-services/mobile-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-5-services/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

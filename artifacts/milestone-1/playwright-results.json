@@ -1,0 +1,463 @@
+{
+  "base": "http://localhost:3004",
+  "responsive": [
+    {
+      "width": 320,
+      "overflow": false,
+      "cls": 0,
+      "headingLines": 2,
+      "images": [
+        {
+          "path": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 280,
+          "height": 350,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fhero%2Fhero-natural-afro.webp&w=384&q=75",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric.",
+          "objectPosition": "58% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 180,
+          "height": 310,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Famber-haircare-still-life.webp&w=256&q=75",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight.",
+          "objectPosition": "50% 50%"
+        },
+        {
+          "path": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 280,
+          "height": 350,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fservices%2Fknotless-braids.webp&w=384&q=75",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light.",
+          "objectPosition": "55% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 280,
+          "height": 350,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbraided-updo-editorial.webp&w=384&q=75",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background.",
+          "objectPosition": "60% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 128,
+          "height": 170.65625,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbantu-knots.webp&w=128&q=75",
+          "alt": "Profile of a Black woman with sculptural Bantu knots.",
+          "objectPosition": "55% 0%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 128,
+          "height": 128,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fdefined-curls-daylight.webp&w=128&q=75",
+          "alt": "Woman with full defined curls in soft daylight.",
+          "objectPosition": "50% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 280,
+          "height": 188.796875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Fsalon-interior-wide.webp&w=384&q=75",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight.",
+          "objectPosition": "50% 52%"
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Instrument Serif",
+        "Manrope",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "cls": 0,
+      "headingLines": 2,
+      "images": [
+        {
+          "path": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 350,
+          "height": 437.5,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fhero%2Fhero-natural-afro.webp&w=384&q=75",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric.",
+          "objectPosition": "58% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 180,
+          "height": 310,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Famber-haircare-still-life.webp&w=256&q=75",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight.",
+          "objectPosition": "50% 50%"
+        },
+        {
+          "path": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 350,
+          "height": 437.5,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fservices%2Fknotless-braids.webp&w=384&q=75",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light.",
+          "objectPosition": "55% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 350,
+          "height": 437.5,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbraided-updo-editorial.webp&w=384&q=75",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background.",
+          "objectPosition": "60% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 163,
+          "height": 217.328125,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbantu-knots.webp&w=256&q=75",
+          "alt": "Profile of a Black woman with sculptural Bantu knots.",
+          "objectPosition": "55% 0%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 163,
+          "height": 163,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fdefined-curls-daylight.webp&w=256&q=75",
+          "alt": "Woman with full defined curls in soft daylight.",
+          "objectPosition": "50% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 350,
+          "height": 236,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Fsalon-interior-wide.webp&w=384&q=75",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight.",
+          "objectPosition": "50% 52%"
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Instrument Serif",
+        "Manrope",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "cls": 0,
+      "headingLines": 2,
+      "images": [
+        {
+          "path": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 386.78125,
+          "height": 483.46875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fhero%2Fhero-natural-afro.webp&w=640&q=75",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric.",
+          "objectPosition": "58% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 200,
+          "height": 344.4375,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Famber-haircare-still-life.webp&w=256&q=75",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight.",
+          "objectPosition": "50% 50%"
+        },
+        {
+          "path": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 264.53125,
+          "height": 330.65625,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fservices%2Fknotless-braids.webp&w=384&q=75",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light.",
+          "objectPosition": "55% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 370.34375,
+          "height": 462.921875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbraided-updo-editorial.webp&w=384&q=75",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background.",
+          "objectPosition": "60% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 180,
+          "height": 240,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbantu-knots.webp&w=256&q=75",
+          "alt": "Profile of a Black woman with sculptural Bantu knots.",
+          "objectPosition": "55% 0%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 264.53125,
+          "height": 175.1875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fdefined-curls-daylight.webp&w=384&q=75",
+          "alt": "Woman with full defined curls in soft daylight.",
+          "objectPosition": "50% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 346.28125,
+          "height": 233.484375,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Fsalon-interior-wide.webp&w=384&q=75",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight.",
+          "objectPosition": "50% 52%"
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Instrument Serif",
+        "Manrope",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "cls": 0,
+      "headingLines": 2,
+      "images": [
+        {
+          "path": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 521.90625,
+          "height": 652.375,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fhero%2Fhero-natural-afro.webp&w=640&q=75",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric.",
+          "objectPosition": "58% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 240,
+          "height": 413.328125,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Famber-haircare-still-life.webp&w=256&q=75",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight.",
+          "objectPosition": "50% 50%"
+        },
+        {
+          "path": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 361.59375,
+          "height": 451.984375,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fservices%2Fknotless-braids.webp&w=384&q=75",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light.",
+          "objectPosition": "55% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 506.21875,
+          "height": 632.765625,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbraided-updo-editorial.webp&w=640&q=75",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background.",
+          "objectPosition": "60% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 240,
+          "height": 320,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbantu-knots.webp&w=256&q=75",
+          "alt": "Profile of a Black woman with sculptural Bantu knots.",
+          "objectPosition": "55% 0%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 361.59375,
+          "height": 239.46875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fdefined-curls-daylight.webp&w=384&q=75",
+          "alt": "Woman with full defined curls in soft daylight.",
+          "objectPosition": "50% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 473.359375,
+          "height": 319.1875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Fsalon-interior-wide.webp&w=640&q=75",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight.",
+          "objectPosition": "50% 52%"
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Instrument Serif",
+        "Manrope",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "cls": 0,
+      "headingLines": 2,
+      "images": [
+        {
+          "path": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 741.46875,
+          "height": 926.828125,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fhero%2Fhero-natural-afro.webp&w=750&q=75",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric.",
+          "objectPosition": "58% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 240,
+          "height": 413.328125,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Famber-haircare-still-life.webp&w=256&q=75",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight.",
+          "objectPosition": "50% 50%"
+        },
+        {
+          "path": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 519.328125,
+          "height": 649.15625,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fservices%2Fknotless-braids.webp&w=640&q=75",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light.",
+          "objectPosition": "55% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 700,
+          "height": 875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbraided-updo-editorial.webp&w=750&q=75",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background.",
+          "objectPosition": "60% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 240,
+          "height": 320,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbantu-knots.webp&w=256&q=75",
+          "alt": "Profile of a Black woman with sculptural Bantu knots.",
+          "objectPosition": "55% 0%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 470,
+          "height": 311.265625,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fdefined-curls-daylight.webp&w=640&q=75",
+          "alt": "Woman with full defined curls in soft daylight.",
+          "objectPosition": "50% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 650,
+          "height": 438.296875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Fsalon-interior-wide.webp&w=750&q=75",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight.",
+          "objectPosition": "50% 52%"
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Instrument Serif",
+        "Manrope",
+        "Manrope",
+        "Manrope"
+      ]
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "cls": 0,
+      "headingLines": 2,
+      "images": [
+        {
+          "path": "/images/ori-studio/hero/hero-natural-afro.webp",
+          "width": 747.046875,
+          "height": 933.796875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fhero%2Fhero-natural-afro.webp&w=750&q=75",
+          "alt": "Editorial portrait of a Black woman with a voluminous natural afro, wearing deep-green draped fabric.",
+          "objectPosition": "58% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/amber-haircare-still-life.webp",
+          "width": 240,
+          "height": 413.328125,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Famber-haircare-still-life.webp&w=256&q=75",
+          "alt": "Unbranded amber haircare bottles, bowl and comb on textured stone in sunlight.",
+          "objectPosition": "50% 50%"
+        },
+        {
+          "path": "/images/ori-studio/services/knotless-braids.webp",
+          "width": 523.328125,
+          "height": 654.15625,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Fservices%2Fknotless-braids.webp&w=640&q=75",
+          "alt": "Black woman with long, neat braids and gold earrings in warm studio light.",
+          "objectPosition": "55% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/braided-updo-editorial.webp",
+          "width": 700,
+          "height": 875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbraided-updo-editorial.webp&w=750&q=75",
+          "alt": "Black woman wearing a braided updo with two front tendrils, photographed against an earthy background.",
+          "objectPosition": "60% 35%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/bantu-knots.webp",
+          "width": 240,
+          "height": 320,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbantu-knots.webp&w=256&q=75",
+          "alt": "Profile of a Black woman with sculptural Bantu knots.",
+          "objectPosition": "55% 0%"
+        },
+        {
+          "path": "/images/ori-studio/lookbook/defined-curls-daylight.webp",
+          "width": 470,
+          "height": 311.265625,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Flookbook%2Fdefined-curls-daylight.webp&w=640&q=75",
+          "alt": "Woman with full defined curls in soft daylight.",
+          "objectPosition": "50% 40%"
+        },
+        {
+          "path": "/images/ori-studio/editorial/salon-interior-wide.webp",
+          "width": 650,
+          "height": 438.296875,
+          "currentSrc": "http://localhost:3004/_next/image?url=%2Fimages%2Fori-studio%2Feditorial%2Fsalon-interior-wide.webp&w=750&q=75",
+          "alt": "Fictional premium salon interior with arched mirrors, forest-green seating and warm sunlight.",
+          "objectPosition": "50% 52%"
+        }
+      ],
+      "fonts": [
+        "Instrument Serif",
+        "Instrument Serif",
+        "Manrope",
+        "Manrope",
+        "Manrope"
+      ]
+    }
+  ],
+  "checks": [
+    "responsive layout, fonts, approved image limits and two-line hero at 320px",
+    "FAQ keyboard open/close and exclusive expansion at 320px",
+    "mobile menu focus containment, Escape, close button, anchor and route navigation at 320px",
+    "skip link and reduced-motion foundations at 320px",
+    "responsive layout, fonts, approved image limits and two-line hero at 390px",
+    "FAQ keyboard open/close and exclusive expansion at 390px",
+    "mobile menu focus containment, Escape, close button, anchor and route navigation at 390px",
+    "skip link and reduced-motion foundations at 390px",
+    "responsive layout, fonts, approved image limits and two-line hero at 768px",
+    "FAQ keyboard open/close and exclusive expansion at 768px",
+    "mobile menu focus containment, Escape, close button, anchor and route navigation at 768px",
+    "tablet backdrop dismissal",
+    "menu closes and releases scroll lock on desktop resize",
+    "skip link and reduced-motion foundations at 768px",
+    "responsive layout, fonts, approved image limits and two-line hero at 1024px",
+    "FAQ keyboard open/close and exclusive expansion at 1024px",
+    "every distinct link destination clicked at 1024px",
+    "skip link and reduced-motion foundations at 1024px",
+    "responsive layout, fonts, approved image limits and two-line hero at 1440px",
+    "FAQ keyboard open/close and exclusive expansion at 1440px",
+    "every distinct link destination clicked at 1440px",
+    "skip link and reduced-motion foundations at 1440px",
+    "responsive layout, fonts, approved image limits and two-line hero at 1920px",
+    "FAQ keyboard open/close and exclusive expansion at 1920px",
+    "every distinct link destination clicked at 1920px",
+    "skip link and reduced-motion foundations at 1920px",
+    "hero image reserves identical geometry before and after loading"
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedResponses": []
+}

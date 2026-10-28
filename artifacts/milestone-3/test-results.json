@@ -1,0 +1,62 @@
+{
+  "checks": [
+    "320px: complete flow, actionable errors, keyboard radio selection, focus, past dates, retained values, all review edits, reset, no overflow/storage/transmission",
+    "390px: complete flow, actionable errors, keyboard radio selection, focus, past dates, retained values, all review edits, reset, no overflow/storage/transmission",
+    "768px: complete flow, actionable errors, keyboard radio selection, focus, past dates, retained values, all review edits, reset, no overflow/storage/transmission",
+    "1440px: complete flow, actionable errors, keyboard radio selection, focus, past dates, retained values, all review edits, reset, no overflow/storage/transmission",
+    "All six real Services CTAs preselect the matching service with keyboard navigation",
+    "Missing, invalid, empty, duplicate and encoded URL service parameters are handled safely",
+    "Browser-local date in UTC−8/UTC+14, stable calendar formatting, and stale dates revalidated at final completion",
+    "Reduced-motion disables interaction transitions",
+    "No console or hydration errors across requested widths"
+  ],
+  "screenshots": [
+    "artifacts/milestone-3/book-service-320.png",
+    "artifacts/milestone-3/book-date-320.png",
+    "artifacts/milestone-3/book-time-320.png",
+    "artifacts/milestone-3/book-review-320.png",
+    "artifacts/milestone-3/book-complete-320.png",
+    "artifacts/milestone-3/book-service-390.png",
+    "artifacts/milestone-3/book-date-390.png",
+    "artifacts/milestone-3/book-time-390.png",
+    "artifacts/milestone-3/book-review-390.png",
+    "artifacts/milestone-3/book-complete-390.png",
+    "artifacts/milestone-3/book-service-768.png",
+    "artifacts/milestone-3/book-date-768.png",
+    "artifacts/milestone-3/book-time-768.png",
+    "artifacts/milestone-3/book-review-768.png",
+    "artifacts/milestone-3/book-complete-768.png",
+    "artifacts/milestone-3/book-service-1440.png",
+    "artifacts/milestone-3/book-date-1440.png",
+    "artifacts/milestone-3/book-time-1440.png",
+    "artifacts/milestone-3/book-review-1440.png",
+    "artifacts/milestone-3/book-complete-1440.png"
+  ],
+  "errors": [],
+  "metrics": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "font": "16px",
+      "headingFont": "\"Instrument Serif\", Georgia, \"Times New Roman\", serif, Georgia, \"Times New Roman\", serif"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "font": "16px",
+      "headingFont": "\"Instrument Serif\", Georgia, \"Times New Roman\", serif, Georgia, \"Times New Roman\", serif"
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "font": "16px",
+      "headingFont": "\"Instrument Serif\", Georgia, \"Times New Roman\", serif, Georgia, \"Times New Roman\", serif"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "font": "16px",
+      "headingFont": "\"Instrument Serif\", Georgia, \"Times New Roman\", serif, Georgia, \"Times New Roman\", serif"
+    }
+  ]
+}

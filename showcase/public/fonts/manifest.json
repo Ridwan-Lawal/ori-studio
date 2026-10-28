@@ -1,0 +1,23 @@
+[
+  {
+    "family": "Instrument Serif",
+    "style": "normal",
+    "file": "instrument-serif.woff2",
+    "source": "d902bc2bfdd0a4cb.p.1g73gv09-xcb6.woff2",
+    "license": "SIL Open Font License 1.1; see licenses/"
+  },
+  {
+    "family": "Instrument Serif",
+    "style": "italic",
+    "file": "instrument-serif-italic.woff2",
+    "source": "e63b65bb308a9351.p.3j3877k49yy0l.woff2",
+    "license": "SIL Open Font License 1.1; see licenses/"
+  },
+  {
+    "family": "Manrope",
+    "style": "normal",
+    "file": "manrope.woff2",
+    "source": "d4b605c61b941c57.p.1sj6eobyi31rd.woff2",
+    "license": "SIL Open Font License 1.1; see licenses/"
+  }
+]

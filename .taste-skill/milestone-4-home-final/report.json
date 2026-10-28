@@ -1,0 +1,3147 @@
+{
+ "url": "http://localhost:3016/",
+ "at": "2026-10-27T08:12:04.981Z",
+ "allow": [
+  "eyebrow",
+  "hairline",
+  "numbering",
+  "micro-label",
+  "small-text",
+  "body-size",
+  "few-pictures",
+  "empty-screens",
+  "palette-cream",
+  "no-footage",
+  "off-centre",
+  "headline-lines",
+  "mixed-font-headline",
+  "card-rows"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.56,
+    0.33,
+    0.92,
+    1,
+    0.72,
+    0.54,
+    0.54,
+    0.77
+   ],
+   "motion": {
+    "elements": 12,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 12,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6919,
+     "screens": 7.7,
+     "words": 283,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 7,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fori-studio%2Fhero%2Fhero-n",
+      "image?url=%2Fimages%2Fori-studio%2Feditorial%2Fa",
+      "image?url=%2Fimages%2Fori-studio%2Fservices%2Fkn",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbr",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fba",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fde",
+      "image?url=%2Fimages%2Fori-studio%2Feditorial%2Fs"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Hair deserves its own rhythm.",
+     "words": 5,
+     "chars": 29,
+     "lines": 2,
+     "size": 97.9,
+     "vw": 6.8,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.37,
+     "top": 407,
+     "mixedFonts": [
+      "Instrument Serif",
+      "Instrument Serif italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Hair deserves its own rhythm.",
+     "words": 5,
+     "lines": 2,
+     "size": 97.9,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Hair deserves its own rhythm.",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 97.9,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 407,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Good hair begins with good care.",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 1288,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Care in every detail.",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 1913,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "↗",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 2158,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Knotless Braids",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 2184,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "↗",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 2302,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Wash & Define",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 2327,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "↗",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 2446,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Loc Retwist",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.45,
+      "top": 2471,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Expressions of texture.",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 2983,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Thoughtful from start to finish.",
+      "words": 5,
+      "chars": 32,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 4362,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.02,
+      "top": 4603,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Understand",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.36,
+      "top": 4603,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.03,
+      "top": 4764,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Care",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 4764,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.02,
+      "top": 4899,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Create",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 4899,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Your next style begins here.",
+      "words": 5,
+      "chars": 28,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 5352,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A few things to know.",
+      "words": 5,
+      "chars": 21,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 5823,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready for your next look?",
+      "words": 5,
+      "chars": 25,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 6381,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.18,
+      "top": 6708,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 22,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 6
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      22,
+      43,
+      72,
+      98
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.1
+     },
+     "measureChars": 73,
+     "max": {
+      "size": 97.9,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "text": "Hair deservesits own"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 5,
+     "microLabelShare": 0.039,
+     "microSamples": [
+      "TEXTURE-LED HAIRCARE",
+      "01 / THE PHILOSOPHY",
+      "02 / WHAT WE DO",
+      "03 / THE LOOKBOOK",
+      "04 / OUR APPROACH"
+     ],
+     "upperShare": 0.04,
+     "centerShare": 0,
+     "smallText": 5
+    },
+    "eyebrows": [
+     {
+      "text": "Skip to content",
+      "above": "ORÍ Studio",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": -58
+     },
+     {
+      "text": "TEXTURE-LED HAIRCARE",
+      "above": "Hair deserves its own rhythm.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 367
+     },
+     {
+      "text": "01 / THE PHILOSOPHY",
+      "above": "Good hair begins with good care.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1248
+     },
+     {
+      "text": "02 / WHAT WE DO",
+      "above": "Care in every detail.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1873
+     },
+     {
+      "text": "Protective styling",
+      "above": "Knotless Braids",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2153
+     },
+     {
+      "text": "Natural-hair care",
+      "above": "Wash & Define",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2297
+     },
+     {
+      "text": "Styling & maintenance",
+      "above": "Loc Retwist",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2441
+     },
+     {
+      "text": "03 / THE LOOKBOOK",
+      "above": "Expressions of texture.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2943
+     },
+     {
+      "text": "04 / OUR APPROACH",
+      "above": "Thoughtful from start to finish.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4322
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / THE PHILOSOPHY",
+      "size": 12,
+      "top": 1248
+     },
+     {
+      "text": "02 / WHAT WE DO",
+      "size": 12,
+      "top": 1873
+     },
+     {
+      "text": "01",
+      "size": 14,
+      "top": 2153
+     },
+     {
+      "text": "02",
+      "size": 14,
+      "top": 2297
+     },
+     {
+      "text": "03",
+      "size": 14,
+      "top": 2441
+     },
+     {
+      "text": "03 / THE LOOKBOOK",
+      "size": 12,
+      "top": 2943
+     },
+     {
+      "text": "04 / OUR APPROACH",
+      "size": 12,
+      "top": 4322
+     },
+     {
+      "text": "01",
+      "size": 43.2,
+      "top": 4603
+     },
+     {
+      "text": "02",
+      "size": 43.2,
+      "top": 4764
+     },
+     {
+      "text": "03",
+      "size": 43.2,
+      "top": 4899
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee8dd",
+       "top": 112,
+       "hsl": {
+        "h": 39,
+        "s": 0.33,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#20382e",
+       "top": 2814,
+       "hsl": {
+        "h": 155,
+        "s": 0.27,
+        "l": 0.17
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.77
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.15
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.04
+      },
+      {
+       "color": "#91432d",
+       "share": 0.04
+      },
+      {
+       "color": "#20382e",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": 6,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Try booking",
+      "Explore services"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 12,
+     "hairlineSamples": [
+      "a.service-row 727px",
+      "a.service-row 727px",
+      "a.service-row 727px",
+      "p.service-note 555px",
+      "li 567px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 7,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 2120
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 4578
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.45
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 96,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6919,
+    "margins": {
+     "left": 65,
+     "right": 65
+    },
+    "sections": [
+     {
+      "sel": "div.motion-root",
+      "tag": "div",
+      "top": 96,
+      "height": 6563,
+      "words": 334,
+      "media": 7,
+      "middle": 0,
+      "heading": {
+       "text": "Hair deserves",
+       "size": 98,
+       "tag": "h1"
+      },
+      "left": 65,
+      "right": 65,
+      "textLeft": 65,
+      "textRight": 91,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 6659,
+      "height": 260,
+      "words": 33,
+      "media": 0,
+      "middle": 421,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 72,
+       "tag": "a"
+      },
+      "left": 65,
+      "right": 65,
+      "textLeft": 65,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Hair deserves its own rhythm.",
+      "size": 98,
+      "top": 407,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 65,
+      "n": 13
+     },
+     {
+      "x": 648,
+      "n": 5
+     },
+     {
+      "x": 129,
+      "n": 3
+     },
+     {
+      "x": 678,
+      "n": 3
+     },
+     {
+      "x": 809,
+      "n": 2
+     },
+     {
+      "x": 253,
+      "n": 1
+     },
+     {
+      "x": 298,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 28,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.11,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 600,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.48,
+    0.91,
+    0.71,
+    0.56,
+    0.72
+   ],
+   "motion": {
+    "elements": 16,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 16,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4815,
+     "screens": 4.7,
+     "words": 278,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 7,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fori-studio%2Fhero%2Fhero-n",
+      "image?url=%2Fimages%2Fori-studio%2Feditorial%2Fa",
+      "image?url=%2Fimages%2Fori-studio%2Fservices%2Fkn",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbr",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fba",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fde",
+      "image?url=%2Fimages%2Fori-studio%2Feditorial%2Fs"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Hair deserves its own rhythm.",
+     "words": 5,
+     "chars": 29,
+     "lines": 2,
+     "size": 52.2,
+     "vw": 6.8,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.36,
+     "top": 189,
+     "mixedFonts": [
+      "Instrument Serif",
+      "Instrument Serif italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Hair deserves its own rhythm.",
+     "words": 5,
+     "lines": 2,
+     "size": 52.2,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.13,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Hair deserves its own rhythm.",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 52.2,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 189,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Good hair begins with good care.",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 776,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Care in every detail.",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 1224,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "↗",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 1354,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Knotless Braids",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.4,
+      "top": 1376,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "↗",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 1481,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Wash & Define",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.4,
+      "top": 1503,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "↗",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 1608,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Loc Retwist",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.4,
+      "top": 1630,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Expressions of texture.",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 1946,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Thoughtful from start to finish.",
+      "words": 5,
+      "chars": 32,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 2862,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.03,
+      "top": 3017,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Understand",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.32,
+      "top": 3017,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.03,
+      "top": 3161,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Care",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.31,
+      "top": 3161,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.03,
+      "top": 3304,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Create",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.31,
+      "top": 3304,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Your next style begins here.",
+      "words": 5,
+      "chars": 28,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 3667,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A few things to know.",
+      "words": 5,
+      "chars": 21,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 3994,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready for your next look?",
+      "words": 5,
+      "chars": 25,
+      "lines": 2,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 4437,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 4641,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 22,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 6
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      18,
+      28,
+      40,
+      52
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.1
+     },
+     "measureChars": 46,
+     "max": {
+      "size": 52.2,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "text": "Hair deservesits own"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 5,
+     "microLabelShare": 0.04,
+     "microSamples": [
+      "TEXTURE-LED HAIRCARE",
+      "01 / THE PHILOSOPHY",
+      "02 / WHAT WE DO",
+      "03 / THE LOOKBOOK",
+      "04 / OUR APPROACH"
+     ],
+     "upperShare": 0.04,
+     "centerShare": 0,
+     "smallText": 5
+    },
+    "eyebrows": [
+     {
+      "text": "TEXTURE-LED HAIRCARE",
+      "above": "Hair deserves its own rhythm.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 149
+     },
+     {
+      "text": "01 / THE PHILOSOPHY",
+      "above": "Good hair begins with good care.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 737
+     },
+     {
+      "text": "02 / WHAT WE DO",
+      "above": "Care in every detail.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1184
+     },
+     {
+      "text": "Protective styling",
+      "above": "Knotless Braids",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 1346
+     },
+     {
+      "text": "Natural-hair care",
+      "above": "Wash & Define",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 1472
+     },
+     {
+      "text": "Styling & maintenance",
+      "above": "Loc Retwist",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 1599
+     },
+     {
+      "text": "03 / THE LOOKBOOK",
+      "above": "Expressions of texture.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1907
+     },
+     {
+      "text": "04 / OUR APPROACH",
+      "above": "Thoughtful from start to finish.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 2822
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / THE PHILOSOPHY",
+      "size": 12,
+      "top": 737
+     },
+     {
+      "text": "02 / WHAT WE DO",
+      "size": 12,
+      "top": 1184
+     },
+     {
+      "text": "01",
+      "size": 14,
+      "top": 1346
+     },
+     {
+      "text": "02",
+      "size": 14,
+      "top": 1472
+     },
+     {
+      "text": "03",
+      "size": 14,
+      "top": 1599
+     },
+     {
+      "text": "03 / THE LOOKBOOK",
+      "size": 12,
+      "top": 1907
+     },
+     {
+      "text": "04 / OUR APPROACH",
+      "size": 12,
+      "top": 2822
+     },
+     {
+      "text": "01",
+      "size": 28,
+      "top": 3017
+     },
+     {
+      "text": "02",
+      "size": 28,
+      "top": 3161
+     },
+     {
+      "text": "03",
+      "size": 28,
+      "top": 3304
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee8dd",
+       "top": 1112,
+       "hsl": {
+        "h": 39,
+        "s": 0.33,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#20382e",
+       "top": 1835,
+       "hsl": {
+        "h": 155,
+        "s": 0.27,
+        "l": 0.17
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.77
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.15
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.04
+      },
+      {
+       "color": "#91432d",
+       "share": 0.04
+      },
+      {
+       "color": "#20382e",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 6,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore services"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 12,
+     "hairlineSamples": [
+      "a.service-row 370px",
+      "a.service-row 370px",
+      "a.service-row 370px",
+      "p.service-note 370px",
+      "li 289px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 1313
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 2992
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.24
+     },
+     {
+      "type": "img",
+      "ratio": 0.08
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 92,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4815,
+    "margins": {
+     "left": 35,
+     "right": 35
+    },
+    "sections": [
+     {
+      "sel": "div.motion-root",
+      "tag": "div",
+      "top": 92,
+      "height": 4500,
+      "words": 334,
+      "media": 7,
+      "middle": 0,
+      "heading": {
+       "text": "Hair deserves",
+       "size": 52,
+       "tag": "h1"
+      },
+      "left": 35,
+      "right": 35,
+      "textLeft": 35,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 4592,
+      "height": 224,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 40,
+       "tag": "a"
+      },
+      "left": 35,
+      "right": 35,
+      "textLeft": 35,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Hair deserves its own rhythm.",
+      "size": 52,
+      "top": 189,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 35,
+      "n": 16
+     },
+     {
+      "x": 363,
+      "n": 5
+     },
+     {
+      "x": 393,
+      "n": 3
+     },
+     {
+      "x": 445,
+      "n": 2
+     },
+     {
+      "x": 103,
+      "n": 1
+     },
+     {
+      "x": 159,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 28,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.58,
+    0.53,
+    0.93,
+    0.95,
+    0.93,
+    0.49,
+    0.75,
+    0.89,
+    0.95
+   ],
+   "motion": {
+    "elements": 16,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 16,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6993,
+     "screens": 8.3,
+     "words": 278,
+     "img": 7,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 8,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 7,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fori-studio%2Fhero%2Fhero-n",
+      "image?url=%2Fimages%2Fori-studio%2Feditorial%2Fa",
+      "image?url=%2Fimages%2Fori-studio%2Fservices%2Fkn",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fbr",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fba",
+      "image?url=%2Fimages%2Fori-studio%2Flookbook%2Fde",
+      "image?url=%2Fimages%2Fori-studio%2Feditorial%2Fs"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Hair deserves its own rhythm.",
+     "words": 5,
+     "chars": 29,
+     "lines": 2,
+     "size": 48,
+     "vw": 12.3,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 148,
+     "mixedFonts": [
+      "Instrument Serif",
+      "Instrument Serif italic"
+     ],
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Hair deserves its own rhythm.",
+     "words": 5,
+     "lines": 2,
+     "size": 48,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Hair deserves its own rhythm.",
+      "words": 5,
+      "chars": 29,
+      "lines": 2,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 148,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Good hair begins with good care.",
+      "words": 6,
+      "chars": 32,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 1086,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Care in every detail.",
+      "words": 4,
+      "chars": 21,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 1861,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "↗",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 2529,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Knotless Braids",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 2551,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "↗",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 2656,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Wash & Define",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.73,
+      "top": 2678,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "↗",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.6,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 2783,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Loc Retwist",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.73,
+      "top": 2805,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Expressions of texture.",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 3122,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Thoughtful from start to finish.",
+      "words": 5,
+      "chars": 32,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 4265,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.05,
+      "top": 4721,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Understand",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 4721,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 4865,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Care",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4865,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.06,
+      "top": 4983,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Create",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 4983,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Your next style begins here.",
+      "words": 5,
+      "chars": 28,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 5220,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A few things to know.",
+      "words": 5,
+      "chars": 21,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 5735,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready for your next look?",
+      "words": 5,
+      "chars": 25,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 6293,
+      "mixedFonts": [
+       "Instrument Serif",
+       "Instrument Serif italic"
+      ],
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 6580,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 22,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 6
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.87,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.13,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      18,
+      28,
+      40,
+      48
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.1
+     },
+     "measureChars": 44,
+     "max": {
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "text": "Hair deservesits own"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 5,
+     "microLabelShare": 0.04,
+     "microSamples": [
+      "TEXTURE-LED HAIRCARE",
+      "01 / THE PHILOSOPHY",
+      "02 / WHAT WE DO",
+      "03 / THE LOOKBOOK",
+      "04 / OUR APPROACH"
+     ],
+     "upperShare": 0.04,
+     "centerShare": 0,
+     "smallText": 5
+    },
+    "eyebrows": [
+     {
+      "text": "TEXTURE-LED HAIRCARE",
+      "above": "Hair deserves its own rhythm.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 108
+     },
+     {
+      "text": "01 / THE PHILOSOPHY",
+      "above": "Good hair begins with good care.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1047
+     },
+     {
+      "text": "02 / WHAT WE DO",
+      "above": "Care in every detail.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1822
+     },
+     {
+      "text": "Protective styling",
+      "above": "Knotless Braids",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2521
+     },
+     {
+      "text": "Natural-hair care",
+      "above": "Wash & Define",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2648
+     },
+     {
+      "text": "Styling & maintenance",
+      "above": "Loc Retwist",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 2774
+     },
+     {
+      "text": "03 / THE LOOKBOOK",
+      "above": "Expressions of texture.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 3082
+     },
+     {
+      "text": "04 / OUR APPROACH",
+      "above": "Thoughtful from start to finish.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 4225
+     },
+     {
+      "text": "A fictional studio, imagined.",
+      "above": "01",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 4631
+     },
+     {
+      "text": "A fictional studio, imagined.",
+      "above": "Understand",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 4631
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / THE PHILOSOPHY",
+      "size": 12,
+      "top": 1047
+     },
+     {
+      "text": "02 / WHAT WE DO",
+      "size": 12,
+      "top": 1822
+     },
+     {
+      "text": "01",
+      "size": 14,
+      "top": 2521
+     },
+     {
+      "text": "02",
+      "size": 14,
+      "top": 2648
+     },
+     {
+      "text": "03",
+      "size": 14,
+      "top": 2774
+     },
+     {
+      "text": "03 / THE LOOKBOOK",
+      "size": 12,
+      "top": 3082
+     },
+     {
+      "text": "04 / OUR APPROACH",
+      "size": 12,
+      "top": 4225
+     },
+     {
+      "text": "01",
+      "size": 28,
+      "top": 4721
+     },
+     {
+      "text": "02",
+      "size": 28,
+      "top": 4865
+     },
+     {
+      "text": "03",
+      "size": 28,
+      "top": 4983
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#eee8dd",
+       "top": 505,
+       "hsl": {
+        "h": 39,
+        "s": 0.33,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#20382e",
+       "top": 3010,
+       "hsl": {
+        "h": 155,
+        "s": 0.27,
+        "l": 0.17
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.77
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.15
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.04
+      },
+      {
+       "color": "#91432d",
+       "share": 0.04
+      },
+      {
+       "color": "#20382e",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 6,
+     "height": 52,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore services"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 12,
+     "hairlineSamples": [
+      "a.service-row 350px",
+      "a.service-row 350px",
+      "a.service-row 350px",
+      "p.service-note 350px",
+      "li 350px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 2488
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 4696
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.36
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 92,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6993,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "div.motion-root",
+      "tag": "div",
+      "top": 92,
+      "height": 6439,
+      "words": 334,
+      "media": 7,
+      "middle": 0,
+      "heading": {
+       "text": "Hair deserves",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 6531,
+      "height": 462,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 40,
+       "tag": "a"
+      },
+      "left": 20,
+      "right": 33,
+      "textLeft": 20,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Hair deserves its own rhythm.",
+      "size": 48,
+      "top": 148,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 23
+     },
+     {
+      "x": 50,
+      "n": 3
+     },
+     {
+      "x": 89,
+      "n": 1
+     },
+     {
+      "x": 134,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 28,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 12 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-home-final/desktop-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-home-final/desktop-page-01.jpg",
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-home-final/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-home-final/tablet-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-home-final/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-home-final/mobile-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-home-final/mobile-page-01.jpg",
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-4-home-final/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

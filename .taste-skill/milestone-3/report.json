@@ -1,0 +1,1632 @@
+{
+ "url": "http://localhost:3010/book",
+ "at": "2026-10-27T07:07:18.206Z",
+ "allow": [
+  "eyebrow",
+  "hairline",
+  "numbering",
+  "micro-label",
+  "small-text",
+  "still-page",
+  "few-pictures",
+  "empty-screens"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.31,
+    0.08,
+    0.3
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 2081,
+     "screens": 2.3,
+     "words": 216,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 2,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Make time for your hair.",
+     "words": 5,
+     "chars": 24,
+     "lines": 2,
+     "size": 97.9,
+     "vw": 6.8,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.31,
+     "top": 216,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Make time for your hair.",
+     "words": 5,
+     "lines": 2,
+     "size": 97.9,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Make time for your hair.",
+      "words": 5,
+      "chars": 24,
+      "lines": 2,
+      "size": 97.9,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 216,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Choose a service.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.52,
+      "top": 611,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A little space for your next style.",
+      "words": 7,
+      "chars": 35,
+      "lines": 2,
+      "size": 43.2,
+      "vw": 3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.28,
+      "top": 655,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.18,
+      "top": 1870,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.93,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.07,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      18,
+      22,
+      43,
+      72,
+      98
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 14,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.9
+     },
+     "measureChars": 37,
+     "max": {
+      "size": 97.9,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "text": "Make time for your hair."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 3,
+     "microLabelShare": 0.042,
+     "microSamples": [
+      "The booking preview",
+      "Step 1 of 4 · Service",
+      "Time, considered."
+     ],
+     "upperShare": 0.04,
+     "centerShare": 0.01,
+     "smallText": 3
+    },
+    "eyebrows": [
+     {
+      "text": "Skip to content",
+      "above": "ORÍ Studio",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 16,
+      "top": -58
+     },
+     {
+      "text": "The booking preview",
+      "above": "Make time for your hair.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 176
+     },
+     {
+      "text": "Step 1 of 4 · Service",
+      "above": "Choose a service.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 580
+     },
+     {
+      "text": "Time, considered.",
+      "above": "A little space for your next style.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 612
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 14,
+      "top": 495
+     },
+     {
+      "text": "02",
+      "size": 14,
+      "top": 493
+     },
+     {
+      "text": "03",
+      "size": 14,
+      "top": 493
+     },
+     {
+      "text": "04",
+      "size": 14,
+      "top": 493
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.37
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.31
+      },
+      {
+       "color": "#586357",
+       "share": 0.24
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.05
+      },
+      {
+       "color": "#91432d",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 6,
+     "height": 50,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Try booking"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 10,
+     "hairlineSamples": [
+      "li 328px",
+      "li 328px",
+      "li 328px",
+      "label.nv8LGq_optionRow 747px",
+      "label.nv8LGq_optionRow 747px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 96,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 2081,
+    "margins": {
+     "left": 65,
+     "right": 90
+    },
+    "sections": [
+     {
+      "sel": "section.nv8LGq_intro",
+      "tag": "section",
+      "top": 176,
+      "height": 235,
+      "words": 38,
+      "media": 0,
+      "middle": 599,
+      "heading": {
+       "text": "This is a demo booking experience. Times are prefe",
+       "size": 22,
+       "tag": "p"
+      },
+      "left": 65,
+      "right": 211,
+      "textLeft": 65,
+      "textRight": 211,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 476,
+      "height": 1249,
+      "words": 133,
+      "media": 0,
+      "middle": 153,
+      "heading": {
+       "text": "Choose a service.",
+       "size": 43,
+       "tag": "h2"
+      },
+      "left": 65,
+      "right": 112,
+      "textLeft": 65,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 1821,
+      "height": 260,
+      "words": 33,
+      "media": 0,
+      "middle": 421,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 72,
+       "tag": "a"
+      },
+      "left": 65,
+      "right": 65,
+      "textLeft": 65,
+      "textRight": 65,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Make time for your hair.",
+      "size": 98,
+      "top": 216,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 65,
+      "n": 4
+     },
+     {
+      "x": 940,
+      "n": 3
+     },
+     {
+      "x": 823,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 14,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.08,
+    "voidBox": {
+     "x": 480,
+     "y": 120,
+     "w": 300,
+     "h": 360
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 2,
+   "filled": [
+    0.36,
+    0.27
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 1970,
+     "screens": 1.9,
+     "words": 211,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 2,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Make time for your hair.",
+     "words": 5,
+     "chars": 24,
+     "lines": 2,
+     "size": 52.2,
+     "vw": 6.8,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.31,
+     "top": 250,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Make time for your hair.",
+     "words": 5,
+     "lines": 2,
+     "size": 52.2,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.13,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Make time for your hair.",
+      "words": 5,
+      "chars": 24,
+      "lines": 2,
+      "size": 52.2,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 250,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Choose a service.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 554,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A little space for your next style.",
+      "words": 7,
+      "chars": 35,
+      "lines": 2,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 597,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 1795,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.93,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.07,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      18,
+      28,
+      40,
+      52
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 14,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.9
+     },
+     "measureChars": 33,
+     "max": {
+      "size": 52.2,
+      "vw": 6.8,
+      "font": "Instrument Serif",
+      "text": "Make time for your hair."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 3,
+     "microLabelShare": 0.044,
+     "microSamples": [
+      "The booking preview",
+      "Step 1 of 4 · Service",
+      "Time, considered."
+     ],
+     "upperShare": 0.04,
+     "centerShare": 0.01,
+     "smallText": 3
+    },
+    "eyebrows": [
+     {
+      "text": "The booking preview",
+      "above": "Make time for your hair.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 210
+     },
+     {
+      "text": "Step 1 of 4 · Service",
+      "above": "Choose a service.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 522
+     },
+     {
+      "text": "Time, considered.",
+      "above": "A little space for your next style.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 554
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 14,
+      "top": 437
+     },
+     {
+      "text": "02",
+      "size": 14,
+      "top": 435
+     },
+     {
+      "text": "03",
+      "size": 14,
+      "top": 435
+     },
+     {
+      "text": "04",
+      "size": 14,
+      "top": 435
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.36
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.31
+      },
+      {
+       "color": "#586357",
+       "share": 0.24
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.05
+      },
+      {
+       "color": "#91432d",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 50,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 7,
+     "hairlineSamples": [
+      "label.nv8LGq_optionRow 391px",
+      "label.nv8LGq_optionRow 391px",
+      "label.nv8LGq_optionRow 391px",
+      "label.nv8LGq_optionRow 391px",
+      "label.nv8LGq_optionRow 391px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 92,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 1970,
+    "margins": {
+     "left": 35,
+     "right": 35
+    },
+    "sections": [
+     {
+      "sel": "section.nv8LGq_intro",
+      "tag": "section",
+      "top": 172,
+      "height": 182,
+      "words": 38,
+      "media": 0,
+      "middle": 243,
+      "heading": null,
+      "left": 35,
+      "right": 44,
+      "textLeft": 35,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 418,
+      "height": 1232,
+      "words": 133,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Choose a service.",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 35,
+      "right": 70,
+      "textLeft": 35,
+      "textRight": 70,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 1746,
+      "height": 224,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 40,
+       "tag": "a"
+      },
+      "left": 35,
+      "right": 35,
+      "textLeft": 35,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Make time for your hair.",
+      "size": 52,
+      "top": 250,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 35,
+      "n": 4
+     },
+     {
+      "x": 505,
+      "n": 3
+     },
+     {
+      "x": 438,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 14,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.44,
+    0.22,
+    0.77,
+    0.9
+   ],
+   "motion": {
+    "elements": 0,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 2654,
+     "screens": 3.1,
+     "words": 211,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 2,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Make time for your hair.",
+     "words": 5,
+     "chars": 24,
+     "lines": 2,
+     "size": 48,
+     "vw": 12.3,
+     "font": "Instrument Serif",
+     "weight": 400,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.57,
+     "top": 180,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Make time for your hair.",
+     "words": 5,
+     "lines": 2,
+     "size": 48,
+     "font": "Instrument Serif"
+    },
+    "headings": [
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 24,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Make time for your hair.",
+      "words": 5,
+      "chars": 24,
+      "lines": 2,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.57,
+      "top": 180,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Choose a service.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.59,
+      "top": 670,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A little space for your next style.",
+      "words": 7,
+      "chars": 35,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1890,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ORÍ Studio",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Instrument Serif",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 2241,
+      "tag": "a",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.93,
+       "mono": false
+      },
+      {
+       "family": "Instrument Serif",
+       "share": 0.07,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      12,
+      14,
+      16,
+      18,
+      28,
+      40,
+      48
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 14,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 13.9
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 48,
+      "vw": 12.3,
+      "font": "Instrument Serif",
+      "text": "Make time for your hair."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 3,
+     "microLabelShare": 0.044,
+     "microSamples": [
+      "The booking preview",
+      "Step 1 of 4 · Service",
+      "Time, considered."
+     ],
+     "upperShare": 0.04,
+     "centerShare": 0.01,
+     "smallText": 3
+    },
+    "eyebrows": [
+     {
+      "text": "The booking preview",
+      "above": "Make time for your hair.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 140
+     },
+     {
+      "text": "Step 1 of 4 · Service",
+      "above": "Choose a service.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 639
+     },
+     {
+      "text": "Time, considered.",
+      "above": "A little space for your next style.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 12,
+      "top": 1847
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 14,
+      "top": 522
+     },
+     {
+      "text": "02",
+      "size": 14,
+      "top": 520
+     },
+     {
+      "text": "03",
+      "size": 14,
+      "top": 520
+     },
+     {
+      "text": "04",
+      "size": 14,
+      "top": 520
+     }
+    ],
+    "color": {
+     "bodyBg": "#f3efe7",
+     "bodyBgHsl": {
+      "h": 40,
+      "s": 0.33,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#20382e",
+       "top": 1815,
+       "hsl": {
+        "h": 155,
+        "s": 0.27,
+        "l": 0.17
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#1f231e",
+       "share": 0.36
+      },
+      {
+       "color": "#f3efe7",
+       "share": 0.31
+      },
+      {
+       "color": "#586357",
+       "share": 0.24
+      },
+      {
+       "color": "#b7c0ad",
+       "share": 0.05
+      },
+      {
+       "color": "#91432d",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#20382e",
+      "hsl": {
+       "h": 155,
+       "s": 0.27,
+       "l": 0.17
+      },
+      "fg": "#f3efe7"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 50,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 7,
+     "hairlineSamples": [
+      "label.nv8LGq_optionRow 350px",
+      "label.nv8LGq_optionRow 350px",
+      "label.nv8LGq_optionRow 350px",
+      "label.nv8LGq_optionRow 350px",
+      "label.nv8LGq_optionRow 350px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 92,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "instrument serif",
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 2654,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section.nv8LGq_intro",
+      "tag": "section",
+      "top": 140,
+      "height": 315,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Make time for your hair.",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 503,
+      "height": 1625,
+      "words": 133,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Choose a service.",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 49,
+      "textLeft": 20,
+      "textRight": 49,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.site-footer",
+      "tag": "footer",
+      "top": 2192,
+      "height": 462,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ORÍ Studio",
+       "size": 40,
+       "tag": "a"
+      },
+      "left": 20,
+      "right": 33,
+      "textLeft": 20,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Make time for your hair.",
+      "size": 48,
+      "top": 180,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 6
+     },
+     {
+      "x": 44,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 9,
+    "bodySize": 14,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f3efe7, text #f3efe7).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 14px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 65px on the left, 90px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-3/desktop-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-3/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-3/tablet-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-3/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/ridwan/projects/ori-studio/.taste-skill/milestone-3/mobile-fold.jpg",
+   "pages": [
+    "/home/ridwan/projects/ori-studio/.taste-skill/milestone-3/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

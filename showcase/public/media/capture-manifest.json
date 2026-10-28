@@ -1,0 +1,116 @@
+{
+  "origin": "http://localhost:3026",
+  "capturedAt": "2026-10-27T13:36:30.220Z",
+  "checks": [
+    "home at 390px: loaded fonts/images, no overflow",
+    "services at 390px: loaded fonts/images, no overflow",
+    "lookbook at 390px: loaded fonts/images, no overflow",
+    "book at 390px: loaded fonts/images, no overflow",
+    "home at 1440px: loaded fonts/images, no overflow",
+    "services at 1440px: loaded fonts/images, no overflow",
+    "lookbook at 1440px: loaded fonts/images, no overflow",
+    "book at 1440px: loaded fonts/images, no overflow",
+    "Real booking service preselection/date/time/review/completion: no appointment booked",
+    "Real booking service preselection/date/time/review/completion: no appointment booked",
+    "Real booking service preselection/date/time/review/completion: no appointment booked"
+  ],
+  "clips": [
+    {
+      "name": "home-desktop",
+      "route": "/",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "activeSeconds": 6.2717775,
+      "rawFile": "raw/home-desktop.webm",
+      "trimRule": "Use final activeSeconds of the raw recording; loading lead-in excluded in prepared clips.",
+      "prepared": {
+        "file": "clips/home-desktop.mp4",
+        "sourceDuration": 8.2,
+        "trimStart": 1.9282224999999995,
+        "duration": 6,
+        "fps": 30,
+        "note": "Loading lead-in removed. End frame is held by the composition if the source is shorter than the edit."
+      }
+    },
+    {
+      "name": "home-mobile",
+      "route": "/",
+      "viewport": {
+        "width": 540,
+        "height": 1000
+      },
+      "activeSeconds": 4.8123295409999995,
+      "rawFile": "raw/home-mobile.webm",
+      "trimRule": "Use final activeSeconds of the raw recording; loading lead-in excluded in prepared clips.",
+      "prepared": {
+        "file": "clips/home-mobile.mp4",
+        "sourceDuration": 6.84,
+        "trimStart": 2.0276704590000003,
+        "duration": 5.4,
+        "fps": 30,
+        "note": "Loading lead-in removed. End frame is held by the composition if the source is shorter than the edit."
+      }
+    },
+    {
+      "name": "lookbook-desktop",
+      "route": "/lookbook",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "activeSeconds": 3.994512496999996,
+      "rawFile": "raw/lookbook-desktop.webm",
+      "trimRule": "Use final activeSeconds of the raw recording; loading lead-in excluded in prepared clips.",
+      "prepared": {
+        "file": "clips/lookbook-desktop.mp4",
+        "sourceDuration": 7.4,
+        "trimStart": 3.4054875030000042,
+        "duration": 3,
+        "fps": 30,
+        "note": "Loading lead-in removed. End frame is held by the composition if the source is shorter than the edit."
+      }
+    },
+    {
+      "name": "services-desktop",
+      "route": "/services",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "activeSeconds": 3.3176762,
+      "rawFile": "raw/services-desktop.webm",
+      "trimRule": "Use final activeSeconds of the raw recording; loading lead-in excluded in prepared clips.",
+      "prepared": {
+        "file": "clips/services-desktop.mp4",
+        "sourceDuration": 6.12,
+        "trimStart": 2.8023238,
+        "duration": 3,
+        "fps": 30,
+        "note": "Loading lead-in removed. End frame is held by the composition if the source is shorter than the edit."
+      }
+    },
+    {
+      "name": "booking-mobile",
+      "route": "/book?service=knotless-braids",
+      "viewport": {
+        "width": 390,
+        "height": 525
+      },
+      "activeSeconds": 5.6449293370000015,
+      "rawFile": "raw/booking-mobile.webm",
+      "trimRule": "Use final activeSeconds of the raw recording; loading lead-in excluded in prepared clips.",
+      "prepared": {
+        "file": "clips/booking-mobile.mp4",
+        "sourceDuration": 9.48,
+        "trimStart": 2,
+        "duration": 6,
+        "fps": 30,
+        "note": "Loading lead-in removed. End frame is held by the composition if the source is shorter than the edit."
+      },
+      "sourceStartSeconds": 2,
+      "trimReview": "Verified raw frames: preferred date at 2–3s, preferred time at 4s, review at 5–6s, demo completion at 7–8s. Use 2–8s."
+    }
+  ]
+}

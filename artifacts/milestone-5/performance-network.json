@@ -1,0 +1,82 @@
+[
+  {
+    "route": "services",
+    "homepageMotionChunkDownloaded": false,
+    "initialScriptRequests": 8,
+    "interactionEvents": []
+  },
+  {
+    "route": "lookbook",
+    "homepageMotionChunkDownloaded": false,
+    "initialScriptRequests": 8,
+    "interactionEvents": [
+      {
+        "name": "pointerdown",
+        "duration": 24
+      },
+      {
+        "name": "pointerup",
+        "duration": 24
+      },
+      {
+        "name": "click",
+        "duration": 24
+      },
+      {
+        "name": "pointerdown",
+        "duration": 32
+      },
+      {
+        "name": "pointerup",
+        "duration": 32
+      },
+      {
+        "name": "click",
+        "duration": 32
+      }
+    ]
+  },
+  {
+    "route": "book",
+    "homepageMotionChunkDownloaded": false,
+    "initialScriptRequests": 8,
+    "interactionEvents": [
+      {
+        "name": "pointerdown",
+        "duration": 88
+      },
+      {
+        "name": "pointerup",
+        "duration": 88
+      },
+      {
+        "name": "click",
+        "duration": 88
+      },
+      {
+        "name": "pointerdown",
+        "duration": 88
+      },
+      {
+        "name": "pointerup",
+        "duration": 88
+      },
+      {
+        "name": "click",
+        "duration": 88
+      },
+      {
+        "name": "pointerdown",
+        "duration": 48
+      },
+      {
+        "name": "pointerup",
+        "duration": 48
+      },
+      {
+        "name": "click",
+        "duration": 48
+      }
+    ]
+  }
+]

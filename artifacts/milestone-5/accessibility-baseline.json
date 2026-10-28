@@ -1,0 +1,395 @@
+[
+  {
+    "width": 390,
+    "route": "home",
+    "state": "initial",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 390,
+    "route": "home",
+    "state": "menu",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 21
+  },
+  {
+    "width": 390,
+    "route": "services",
+    "state": "initial",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 2
+      }
+    ],
+    "passes": 41
+  },
+  {
+    "width": 390,
+    "route": "services",
+    "state": "menu",
+    "violations": [],
+    "incomplete": [],
+    "passes": 21
+  },
+  {
+    "width": 390,
+    "route": "lookbook",
+    "state": "initial",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 44
+  },
+  {
+    "width": 390,
+    "route": "lookbook",
+    "state": "lightbox",
+    "violations": [],
+    "incomplete": [],
+    "passes": 24
+  },
+  {
+    "width": 390,
+    "route": "lookbook",
+    "state": "menu",
+    "violations": [],
+    "incomplete": [],
+    "passes": 21
+  },
+  {
+    "width": 390,
+    "route": "book",
+    "state": "initial",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 390,
+    "route": "book",
+    "state": "service-error",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 390,
+    "route": "book",
+    "state": "date",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 390,
+    "route": "book",
+    "state": "date-error",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 390,
+    "route": "book",
+    "state": "time",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 390,
+    "route": "book",
+    "state": "time-error",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 390,
+    "route": "book",
+    "state": "review",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 41
+  },
+  {
+    "width": 390,
+    "route": "book",
+    "state": "complete",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": 1
+      },
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 39
+  },
+  {
+    "width": 390,
+    "route": "book",
+    "state": "menu",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 21
+  },
+  {
+    "width": 1440,
+    "route": "home",
+    "state": "initial",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 41
+  },
+  {
+    "width": 1440,
+    "route": "services",
+    "state": "initial",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 2
+      }
+    ],
+    "passes": 40
+  },
+  {
+    "width": 1440,
+    "route": "lookbook",
+    "state": "initial",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 44
+  },
+  {
+    "width": 1440,
+    "route": "lookbook",
+    "state": "lightbox",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 23
+  },
+  {
+    "width": 1440,
+    "route": "book",
+    "state": "initial",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 1440,
+    "route": "book",
+    "state": "service-error",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 1440,
+    "route": "book",
+    "state": "date",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 1440,
+    "route": "book",
+    "state": "date-error",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 1440,
+    "route": "book",
+    "state": "time",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 1440,
+    "route": "book",
+    "state": "time-error",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 42
+  },
+  {
+    "width": 1440,
+    "route": "book",
+    "state": "review",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 41
+  },
+  {
+    "width": 1440,
+    "route": "book",
+    "state": "complete",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": 1
+      }
+    ],
+    "passes": 39
+  }
+]

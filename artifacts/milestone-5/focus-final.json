@@ -1,0 +1,56 @@
+[
+  {
+    "width": 390,
+    "name": "primary",
+    "focusVisible": true,
+    "outline": "rgb(32, 56, 46)",
+    "outlineWidth": "2px",
+    "background": "rgb(243, 239, 231)",
+    "contrast": 10.987727289357245
+  },
+  {
+    "width": 390,
+    "name": "filter",
+    "focusVisible": true,
+    "outline": "rgb(32, 56, 46)",
+    "outlineWidth": "2px",
+    "background": "rgb(243, 239, 231)",
+    "contrast": 10.987727289357245
+  },
+  {
+    "width": 390,
+    "name": "light",
+    "focusVisible": true,
+    "outline": "rgb(243, 239, 231)",
+    "outlineWidth": "2px",
+    "background": "rgb(32, 56, 46)",
+    "contrast": 10.987727289357245
+  },
+  {
+    "width": 1440,
+    "name": "primary",
+    "focusVisible": true,
+    "outline": "rgb(32, 56, 46)",
+    "outlineWidth": "2px",
+    "background": "rgb(243, 239, 231)",
+    "contrast": 10.987727289357245
+  },
+  {
+    "width": 1440,
+    "name": "filter",
+    "focusVisible": true,
+    "outline": "rgb(32, 56, 46)",
+    "outlineWidth": "2px",
+    "background": "rgb(243, 239, 231)",
+    "contrast": 10.987727289357245
+  },
+  {
+    "width": 1440,
+    "name": "light",
+    "focusVisible": true,
+    "outline": "rgb(243, 239, 231)",
+    "outlineWidth": "2px",
+    "background": "rgb(32, 56, 46)",
+    "contrast": 10.987727289357245
+  }
+]

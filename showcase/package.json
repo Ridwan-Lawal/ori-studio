@@ -1,7 +1,7 @@
 {
   "name": "showcase",
   "version": "1.0.0",
-  "description": "Actual ORÍ Studio website portfolio showcase — fictional concept",
+  "description": "Actual OR\u00cd Studio website portfolio showcase \u2014 fictional concept",
   "repository": {},
   "license": "UNLICENSED",
   "engines": {
@@ -31,7 +31,9 @@
     "lint": "eslint src && tsc",
     "render:draft": "remotion render OriStudioShowcase out/ori-studio-draft.mp4 --scale=0.5 --codec=h264 --crf=24 --concurrency=1 --timeout=120000 --media-cache-size-in-bytes=268435456 --offthreadvideo-cache-size-in-bytes=67108864",
     "render": "node scripts/render-final.mjs",
-    "cover": "remotion still OriStudioCover out/ori-studio-cover.png --timeout=120000"
+    "cover": "remotion still OriStudioCover out/ori-studio-cover.png --timeout=120000",
+    "render:refined": "node scripts/render-refined.mjs",
+    "cover:refined": "remotion still OriStudioCover out/ori-studio-cover-refined.png --browser-executable=/usr/bin/google-chrome --timeout=120000"
   },
   "allowScripts": {
     "esbuild": false

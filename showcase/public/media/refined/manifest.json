@@ -1,0 +1,36 @@
+{
+  "origin": "http://localhost:3027",
+  "capturedAt": "2026-10-28T12:39:34.984Z",
+  "checks": [
+    {
+      "name": "booking",
+      "viewport": {
+        "width": 390,
+        "height": 550
+      },
+      "active": 7.341917920999999,
+      "trim": 2.218082079000001,
+      "errors": []
+    },
+    {
+      "name": "services",
+      "viewport": {
+        "width": 390,
+        "height": 550
+      },
+      "active": 3.519922479,
+      "trim": 1.6800775210000003,
+      "errors": []
+    },
+    {
+      "name": "lookbook",
+      "viewport": {
+        "width": 390,
+        "height": 550
+      },
+      "active": 4.125618364,
+      "trim": 1.9143816359999999,
+      "errors": []
+    }
+  ]
+}

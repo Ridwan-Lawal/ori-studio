@@ -71,3 +71,11 @@ The Remotion scaffold's own license is `UNLICENSED`; check Remotion's current co
 See `out/REPORT.md` for executed results, scene review and exact deliverables. The initial npm audit is retained in `out/review/npm-audit.json`: the current upstream Remotion tooling has ten high-severity dependency findings stemming from its Zod dependency. npm's proposed fix downgrades Remotion and is not applied blindly. This is local authoring tooling; no Studio/backend is published, and the final MP4 does not execute JavaScript. Recheck/update the complete compatible Remotion package set before exposing authoring tools to untrusted inputs.
 
 No website deployment, production publishing, or additional video variation is included. Stop after this first showcase.
+
+## Refined showcase
+
+The requested refinement is delivered separately as `out/ori-studio-showcase-refined.mp4` and `out/ori-studio-cover-refined.png`; the original MP4 and cover are retained. See `out/REPORT-REFINED.md`.
+
+Re-render this edit with `npm run render:refined` and `npm run cover:refined`. These commands target only the refined filenames. `src/Composition.tsx` now contains the refined edit. New mobile captures live under `public/media/refined/` and are self-contained. To recapture, start a fresh production website server on port 3027 after building, then run `node scripts/capture-refined.cjs`. `ORI_REFINED_ONLY=booking` updates only Booking. Verify the loaded styles before recording; never rebuild the website while recording from the same production server.
+
+The new edit uses 0–3s website-first hook and responsive reveal; 3–6s mobile homepage; 6–9.5s service details; 9.5–13.5s real filter changes; 13.5–21s booking preferences/review/demo completion; 21–25s Lawal Ridwan and the retained DM CTA. No confirmed portfolio URL was found, so none was added.
